@@ -26,6 +26,7 @@
 팀원 : 유문천
 담당 : 게임 제작
 ```
+<img width="200" src="https://user-images.githubusercontent.com/41886825/77666482-5b0be200-6fc4-11ea-9de3-8c7b9476a1f2.jpg"></img>
 ```markdown
 팀원 : 최광희
 담당 : AWS Server 및 데이터베이스
