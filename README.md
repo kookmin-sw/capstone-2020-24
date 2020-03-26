@@ -2,7 +2,9 @@
 ### 1. 프로잭트 소개
 
 프로젝트
-
+<div>
+<img src="https://user-images.githubusercontent.com/41886825/77662443-36613b80-6fbf-11ea-98c1-6779632a8bce.png"></img>
+</div>
 ### 2. 소개 영상
 
 프로젝트 소개하는 영상을 추가하세요
