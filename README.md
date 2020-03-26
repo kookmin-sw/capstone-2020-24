@@ -1,7 +1,9 @@
-**팀페이지 주소** [https://github.com/kookmin-sw/capstone-2020-24](https://github.com/kookmin-sw/capstone-2020-24).
 
 나 혼자 운동 
 =============
+
+**팀페이지 주소** [https://github.com/kookmin-sw/capstone-2020-24](https://github.com/kookmin-sw/capstone-2020-24).
+
 ### 1. 프로젝트 소개
 <img src="https://user-images.githubusercontent.com/41886825/77662443-36613b80-6fbf-11ea-98c1-6779632a8bce.png"></img>
  
