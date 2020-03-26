@@ -1,6 +1,7 @@
 **팀페이지 주소** [https://github.com/kookmin-sw/capstone-2020-24](https://github.com/kookmin-sw/capstone-2020-24).
 ### 1. 프로젝트 소개
 <img src="https://user-images.githubusercontent.com/41886825/77662443-36613b80-6fbf-11ea-98c1-6779632a8bce.png"></img>
+ '나 혼자 운동'은 혼자서도 쉽고 재밌게 홈트레이닝을 즐길 수 있도록 도와주는 프로젝트입니다. 영상인식 기능을 이용하여 사용자의 포즈를 인식하고, 그것을 입력으로 하는 원버튼 게임을 만듭니다. 일일 퀘스트, 랭킹, 상점 시스템 등의 게임적 요소를 적극 사용하여 유저들로 하여금 경쟁을 유도하고, 오랜 기간 꾸준히 운동할 수 있도록 돕는게 최대 목표입니다.
 ### 2. 소개 영상
 
 프로젝트 소개하는 영상을 추가하세요
@@ -11,25 +12,25 @@
 
 ```markdown
 팀장 : 서형석
-담당 : AWS Server 및 영상처리
+역할 : AWS Server 및 영상처리
 ```
 ```markdown
 팀원 : 강주혜
-담당 : 데이터베이스 및 영상처리
+역할 : 데이터베이스 및 영상처리
 ```
 ```markdown
 팀원 : 박재민
-담당 : 웹 프론트엔드 및 게임 제작
+역할 : 웹 프론트엔드 및 게임 제작
 ```
 <img width="200" src="https://user-images.githubusercontent.com/41886825/77663023-ee8ee400-6fbf-11ea-887d-08eec9f228d1.jpg"></img>
 ```markdown
 팀원 : 유문천
-담당 : 게임 제작
+역할 : 게임 제작
 ```
 <img width="200" src="https://user-images.githubusercontent.com/41886825/77666482-5b0be200-6fc4-11ea-9de3-8c7b9476a1f2.jpg"></img>
 ```markdown
 팀원 : 최광희
-담당 : AWS Server 및 데이터베이스
+역할 : AWS Server 및 데이터베이스
 ```
 
 ### 4. 사용법
