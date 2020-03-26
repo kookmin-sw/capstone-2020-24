@@ -1,8 +1,6 @@
 **팀페이지 주소** [https://github.com/kookmin-sw/capstone-2020-24](https://github.com/kookmin-sw/capstone-2020-24).
 ### 1. 프로젝트 소개
-<div>
 <img src="https://user-images.githubusercontent.com/41886825/77662443-36613b80-6fbf-11ea-98c1-6779632a8bce.png"></img>
-</div>
 ### 2. 소개 영상
 
 프로젝트 소개하는 영상을 추가하세요
@@ -23,9 +21,8 @@
 팀원 : 박재민
 담당 : 웹 프론트엔드 및 게임 제작
 ```
-<div>
-<img src="https://user-images.githubusercontent.com/41886825/77663023-ee8ee400-6fbf-11ea-887d-08eec9f228d1.jpg"></img>
-</div>
+<img width="200" src="https://user-images.githubusercontent.com/41886825/77663023-ee8ee400-6fbf-11ea-887d-08eec9f228d1.jpg"></img>
+
 ```markdown
 팀원 : 유문천
 담당 : 게임 제작
