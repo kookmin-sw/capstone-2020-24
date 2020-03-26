@@ -21,9 +21,8 @@
 팀원 : 박재민
 담당 : 웹 프론트엔드 및 게임 제작
 ```
-<img width="200" src="https://user-images.githubusercontent.com/41886825/77663023-ee8ee400-6fbf-11ea-887d-08eec9f228d1.jpg"></img>
-
 ```markdown
+<img width="200" src="https://user-images.githubusercontent.com/41886825/77663023-ee8ee400-6fbf-11ea-887d-08eec9f228d1.jpg"></img>
 팀원 : 유문천
 담당 : 게임 제작
 ```
