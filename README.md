@@ -18,7 +18,7 @@
 
 ```markdown
 팀장 : 서형석
-역할 : AWS Server 및 영상처리
+역할 : 팀장, AWS Server 및 영상처리
 ```
 ```markdown
 팀원 : 강주혜
