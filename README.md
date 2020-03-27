@@ -14,8 +14,7 @@
 and item systems etc.
 
 ### 3. 소개 영상
-
-<img href="https://youtu.be/4XUc72WqI-I" src="https://user-images.githubusercontent.com/41886825/77716183-e5822f00-7020-11ea-9fef-8e5a5bfc64bb.png"></img>
+[![텍스트](https://user-images.githubusercontent.com/41886825/77716183-e5822f00-7020-11ea-9fef-8e5a5bfc64bb.png)](https://youtu.be/4XUc72WqI-I)
 
 ### 4. 팀 소개
 
