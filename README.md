@@ -26,7 +26,7 @@ and item systems etc.
 팀장 : 서형석
 역할 : AWS Server 및 영상처리
 ```
-<img width="200"![KakaoTalk_20200327_125518384](https://user-images.githubusercontent.com/12998163/77720980-dbfec400-702c-11ea-9429-5cfcc35cf363.jpg)
+<img width="200" src="https://user-images.githubusercontent.com/12998163/77720980-dbfec400-702c-11ea-9429-5cfcc35cf363.jpg"></img>
 ```markdown
 팀원 : 강주혜
 역할 : 데이터베이스 및 영상처리
