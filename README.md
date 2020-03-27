@@ -29,7 +29,7 @@ and item systems etc.
 팀원 : 강주혜
 역할 : 데이터베이스 및 영상처리
 ```
-<img width="200" src="https://user-images.githubusercontent.com/41886825/77715322-a5ba4800-701e-11ea-8c10-c82fdff16fb2.png"></img>
+<img width="200" src="https://user-images.githubusercontent.com/41886825/77715560-44df3f80-701f-11ea-87a6-a8bbede8c3e7.png"></img>
 ```markdown
 팀원 : 박재민
 역할 : 웹 프론트엔드 및 게임 제작
