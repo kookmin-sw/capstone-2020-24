@@ -19,7 +19,10 @@ and item systems etc.
 
 ### 4. 팀 소개
 
-**지도 교수 : 박하명**
+##**지도 교수 : 박하명**
+
+
+
 
 <img width="200" src="https://user-images.githubusercontent.com/30205073/77715644-79eb9200-701f-11ea-98fd-cd6af1d22a81.jpg"></img>
 ```markdown
