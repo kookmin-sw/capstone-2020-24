@@ -15,7 +15,7 @@ and item systems etc.
 
 ### 3. 소개 영상
 
-프로젝트 소개하는 영상을 추가하세요
+<img href="https://youtu.be/4XUc72WqI-I" src="https://user-images.githubusercontent.com/41886825/77716183-e5822f00-7020-11ea-9fef-8e5a5bfc64bb.png"></img>
 
 ### 4. 팀 소개
 
