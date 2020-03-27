@@ -8,11 +8,16 @@
 <img src="https://user-images.githubusercontent.com/41886825/77662443-36613b80-6fbf-11ea-98c1-6779632a8bce.png"></img>
  
   **'나 혼자 운동'** 은 혼자서도 쉽고 재밌게 홈트레이닝을 즐길 수 있도록 도와주는 프로젝트입니다. 영상인식 기능을 이용하여 사용자의 포즈를 인식하고, 그것을 입력으로 하는 원버튼 게임을 만듭니다. 웹에 접속할 수 있는 장비와 카메라만 있다면 누구든 게임을 즐길 수 있습니다. 일일 퀘스트, 랭킹, 상점 시스템 등의 게임적 요소를 적극 사용하여 유저들로 하여금 경쟁을 유도하고, 오랜 기간 꾸준히 운동할 수 있도록 돕는게 우리의 최대 목표입니다.
-### 2. 소개 영상
+
+### 2. Abstract
+  **'Home Fit Alone'** is a project to help you enjoy home training easily and fun alone. Using image recognition technology we create an one-button game that recognizes the users pose and uses it as an input. Anyone who has a web access and camera can enjoy it. Our main goal is to induce users to compete and help them work out steadily for a long time through daily quests, ranking systems, 
+and item systems etc.
+
+### 3. 소개 영상
 
 프로젝트 소개하는 영상을 추가하세요
 
-### 3. 팀 소개
+### 4. 팀 소개
 
 **지도 교수 : 박하명**
 
