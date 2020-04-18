@@ -1,0 +1,4301 @@
+fileFormatVersion: 2
+guid: 98b2b4b0d8f5ad146b09034e7776f58f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7199403657864331194
+    second: Mobile - Cookie Run - Brave Cookie_0
+  - first:
+      213: -5583727988720469712
+    second: Mobile - Cookie Run - Brave Cookie_0
+  - first:
+      213: -789194429605647733
+    second: Mobile - Cookie Run - Brave Cookie_1
+  - first:
+      213: 7346007630624104760
+    second: Mobile - Cookie Run - Brave Cookie_2
+  - first:
+      213: -3488187740037266507
+    second: Mobile - Cookie Run - Brave Cookie_3
+  - first:
+      213: 5339739416606581177
+    second: Mobile - Cookie Run - Brave Cookie_4
+  - first:
+      213: 5628534398069764279
+    second: Mobile - Cookie Run - Brave Cookie_5
+  - first:
+      213: -7046606632812911210
+    second: Mobile - Cookie Run - Brave Cookie_6
+  - first:
+      213: -5925570374035997179
+    second: Mobile - Cookie Run - Brave Cookie_7
+  - first:
+      213: -4104589130341422896
+    second: Mobile - Cookie Run - Brave Cookie_8
+  - first:
+      213: -6757018106555847637
+    second: Mobile - Cookie Run - Brave Cookie_9
+  - first:
+      213: -2946143568971184690
+    second: Mobile - Cookie Run - Brave Cookie_10
+  - first:
+      213: 1992903365882475057
+    second: Mobile - Cookie Run - Brave Cookie_11
+  - first:
+      213: -1267410657148794650
+    second: Mobile - Cookie Run - Brave Cookie_12
+  - first:
+      213: -6223628953133156567
+    second: Mobile - Cookie Run - Brave Cookie_13
+  - first:
+      213: 8987533423014722720
+    second: Mobile - Cookie Run - Brave Cookie_14
+  - first:
+      213: 905329178417284743
+    second: Mobile - Cookie Run - Brave Cookie_15
+  - first:
+      213: -5485709467962380978
+    second: Mobile - Cookie Run - Brave Cookie_16
+  - first:
+      213: 3179136985181438920
+    second: Mobile - Cookie Run - Brave Cookie_17
+  - first:
+      213: 1453925063815200145
+    second: Mobile - Cookie Run - Brave Cookie_18
+  - first:
+      213: -4275447331439698847
+    second: Mobile - Cookie Run - Brave Cookie_19
+  - first:
+      213: 7034011433388399069
+    second: Mobile - Cookie Run - Brave Cookie_20
+  - first:
+      213: 4192929178942928223
+    second: Mobile - Cookie Run - Brave Cookie_21
+  - first:
+      213: 8524228265765095575
+    second: Mobile - Cookie Run - Brave Cookie_22
+  - first:
+      213: 1786190660876021532
+    second: Mobile - Cookie Run - Brave Cookie_23
+  - first:
+      213: -6647071245417265267
+    second: Mobile - Cookie Run - Brave Cookie_24
+  - first:
+      213: -6936712644630827987
+    second: Mobile - Cookie Run - Brave Cookie_25
+  - first:
+      213: -8219125159222314987
+    second: Mobile - Cookie Run - Brave Cookie_26
+  - first:
+      213: -8781387107159847860
+    second: Mobile - Cookie Run - Brave Cookie_27
+  - first:
+      213: -7527047851404228102
+    second: Mobile - Cookie Run - Brave Cookie_28
+  - first:
+      213: 4045957187861145313
+    second: Mobile - Cookie Run - Brave Cookie_29
+  - first:
+      213: 3122859071592629348
+    second: Mobile - Cookie Run - Brave Cookie_30
+  - first:
+      213: -6999523451958553261
+    second: Mobile - Cookie Run - Brave Cookie_31
+  - first:
+      213: -8869849955414878338
+    second: Mobile - Cookie Run - Brave Cookie_32
+  - first:
+      213: 7346740023463664355
+    second: Mobile - Cookie Run - Brave Cookie_33
+  - first:
+      213: 4701502072730073440
+    second: Mobile - Cookie Run - Brave Cookie_34
+  - first:
+      213: 2969135409867730990
+    second: Mobile - Cookie Run - Brave Cookie_35
+  - first:
+      213: -4291320316023037338
+    second: Mobile - Cookie Run - Brave Cookie_36
+  - first:
+      213: -705489877295320952
+    second: Mobile - Cookie Run - Brave Cookie_37
+  - first:
+      213: -3455340090543272268
+    second: Mobile - Cookie Run - Brave Cookie_38
+  - first:
+      213: 5908137905736721784
+    second: Mobile - Cookie Run - Brave Cookie_39
+  - first:
+      213: 654309724140421564
+    second: Mobile - Cookie Run - Brave Cookie_40
+  - first:
+      213: 7686835837063252146
+    second: Mobile - Cookie Run - Brave Cookie_41
+  - first:
+      213: 2409919387891259999
+    second: Mobile - Cookie Run - Brave Cookie_42
+  - first:
+      213: -4685650709498942264
+    second: Mobile - Cookie Run - Brave Cookie_43
+  - first:
+      213: 6086778742049746264
+    second: Mobile - Cookie Run - Brave Cookie_44
+  - first:
+      213: 8325545103373410417
+    second: Mobile - Cookie Run - Brave Cookie_45
+  - first:
+      213: -7484811551805427810
+    second: Mobile - Cookie Run - Brave Cookie_46
+  - first:
+      213: -8233533045777070683
+    second: Mobile - Cookie Run - Brave Cookie_47
+  - first:
+      213: -6647420681291139917
+    second: Mobile - Cookie Run - Brave Cookie_48
+  - first:
+      213: 5713787419819682072
+    second: Mobile - Cookie Run - Brave Cookie_49
+  - first:
+      213: 3133004473413947438
+    second: Mobile - Cookie Run - Brave Cookie_50
+  - first:
+      213: 8496957056253419103
+    second: Mobile - Cookie Run - Brave Cookie_51
+  - first:
+      213: -204735100008951271
+    second: Mobile - Cookie Run - Brave Cookie_52
+  - first:
+      213: 2889611270506535385
+    second: Mobile - Cookie Run - Brave Cookie_53
+  - first:
+      213: 3179846802672124032
+    second: Mobile - Cookie Run - Brave Cookie_54
+  - first:
+      213: 8786798626439895950
+    second: Mobile - Cookie Run - Brave Cookie_55
+  - first:
+      213: -3066743435653861219
+    second: Mobile - Cookie Run - Brave Cookie_56
+  - first:
+      213: 5824861855042388075
+    second: Mobile - Cookie Run - Brave Cookie_57
+  - first:
+      213: 5789660533739163302
+    second: Mobile - Cookie Run - Brave Cookie_58
+  - first:
+      213: 3694718166812671958
+    second: Mobile - Cookie Run - Brave Cookie_59
+  - first:
+      213: 558265349214708610
+    second: Mobile - Cookie Run - Brave Cookie_60
+  - first:
+      213: 2584244768860325718
+    second: Mobile - Cookie Run - Brave Cookie_61
+  - first:
+      213: 5928683553047413592
+    second: Mobile - Cookie Run - Brave Cookie_62
+  - first:
+      213: -7303919753404456775
+    second: Mobile - Cookie Run - Brave Cookie_63
+  - first:
+      213: -7765936773234571087
+    second: Mobile - Cookie Run - Brave Cookie_64
+  - first:
+      213: 3546229702703182128
+    second: Mobile - Cookie Run - Brave Cookie_65
+  - first:
+      213: 6533032306377250368
+    second: Mobile - Cookie Run - Brave Cookie_66
+  - first:
+      213: 1555597894486236763
+    second: Mobile - Cookie Run - Brave Cookie_67
+  - first:
+      213: 2640498778253765074
+    second: Mobile - Cookie Run - Brave Cookie_68
+  - first:
+      213: 3255567512663944137
+    second: Mobile - Cookie Run - Brave Cookie_69
+  - first:
+      213: 964744496358160331
+    second: Mobile - Cookie Run - Brave Cookie_70
+  - first:
+      213: -404895557002172545
+    second: Mobile - Cookie Run - Brave Cookie_71
+  - first:
+      213: -8174139849268000351
+    second: Mobile - Cookie Run - Brave Cookie_72
+  - first:
+      213: -6702293190423700270
+    second: Mobile - Cookie Run - Brave Cookie_73
+  - first:
+      213: 9182280514207332634
+    second: Mobile - Cookie Run - Brave Cookie_74
+  - first:
+      213: -7905762657902555907
+    second: Mobile - Cookie Run - Brave Cookie_75
+  - first:
+      213: 4122709947913007758
+    second: Mobile - Cookie Run - Brave Cookie_76
+  - first:
+      213: 7656317257991623870
+    second: Mobile - Cookie Run - Brave Cookie_77
+  - first:
+      213: 837086373160036934
+    second: Mobile - Cookie Run - Brave Cookie_78
+  - first:
+      213: -4198747327685485608
+    second: Mobile - Cookie Run - Brave Cookie_79
+  - first:
+      213: 5900829620253396085
+    second: Mobile - Cookie Run - Brave Cookie_80
+  - first:
+      213: -6506487327869450555
+    second: Mobile - Cookie Run - Brave Cookie_81
+  - first:
+      213: 1973695574364370559
+    second: Mobile - Cookie Run - Brave Cookie_82
+  - first:
+      213: 3817050093922391871
+    second: Mobile - Cookie Run - Brave Cookie_83
+  - first:
+      213: 4395393666009691180
+    second: Mobile - Cookie Run - Brave Cookie_84
+  - first:
+      213: 5886868131713908637
+    second: Mobile - Cookie Run - Brave Cookie_85
+  - first:
+      213: 8353083398227735160
+    second: Mobile - Cookie Run - Brave Cookie_86
+  - first:
+      213: -5382218187787669707
+    second: Mobile - Cookie Run - Brave Cookie_87
+  - first:
+      213: -6268024335637457053
+    second: Mobile - Cookie Run - Brave Cookie_88
+  - first:
+      213: -4605210841980915024
+    second: Mobile - Cookie Run - Brave Cookie_89
+  - first:
+      213: -822354115412664186
+    second: Mobile - Cookie Run - Brave Cookie_90
+  - first:
+      213: -2155355996390996465
+    second: Mobile - Cookie Run - Brave Cookie_91
+  - first:
+      213: -1708367868962915720
+    second: Mobile - Cookie Run - Brave Cookie_92
+  - first:
+      213: -830818760256411540
+    second: Mobile - Cookie Run - Brave Cookie_93
+  - first:
+      213: -1166740226448966053
+    second: Mobile - Cookie Run - Brave Cookie_94
+  - first:
+      213: -1829931781046194178
+    second: Mobile - Cookie Run - Brave Cookie_95
+  - first:
+      213: -6158389538686443754
+    second: Mobile - Cookie Run - Brave Cookie_96
+  - first:
+      213: 3951878259527039861
+    second: Mobile - Cookie Run - Brave Cookie_97
+  - first:
+      213: -2648316506019821787
+    second: Mobile - Cookie Run - Brave Cookie_98
+  - first:
+      213: -4911138688496997741
+    second: Mobile - Cookie Run - Brave Cookie_99
+  - first:
+      213: 8222049807009504089
+    second: Mobile - Cookie Run - Brave Cookie_100
+  - first:
+      213: -6072165119770907248
+    second: Mobile - Cookie Run - Brave Cookie_101
+  - first:
+      213: -5374335414714542066
+    second: Mobile - Cookie Run - Brave Cookie_102
+  - first:
+      213: 8270851513407389112
+    second: Mobile - Cookie Run - Brave Cookie_103
+  - first:
+      213: -3517712348490190292
+    second: Mobile - Cookie Run - Brave Cookie_104
+  - first:
+      213: 2407355707175825228
+    second: Mobile - Cookie Run - Brave Cookie_105
+  - first:
+      213: -4724217416419396979
+    second: Mobile - Cookie Run - Brave Cookie_106
+  - first:
+      213: 564506293915993692
+    second: Mobile - Cookie Run - Brave Cookie_107
+  - first:
+      213: 708092276071562315
+    second: Mobile - Cookie Run - Brave Cookie_108
+  - first:
+      213: -2235695701901564824
+    second: Mobile - Cookie Run - Brave Cookie_109
+  - first:
+      213: 5477499637020576346
+    second: Mobile - Cookie Run - Brave Cookie_110
+  - first:
+      213: -7652602319364055425
+    second: Mobile - Cookie Run - Brave Cookie_111
+  - first:
+      213: 5476272237847652421
+    second: Mobile - Cookie Run - Brave Cookie_112
+  - first:
+      213: -5915161184876527180
+    second: Mobile - Cookie Run - Brave Cookie_113
+  - first:
+      213: 2518509696628976849
+    second: Mobile - Cookie Run - Brave Cookie_114
+  - first:
+      213: -896784877404243403
+    second: Mobile - Cookie Run - Brave Cookie_115
+  - first:
+      213: 4249531402538789553
+    second: Mobile - Cookie Run - Brave Cookie_116
+  - first:
+      213: 1196929089396550882
+    second: Mobile - Cookie Run - Brave Cookie_117
+  - first:
+      213: -3062188054847035368
+    second: Mobile - Cookie Run - Brave Cookie_118
+  - first:
+      213: -8994611056937845081
+    second: Mobile - Cookie Run - Brave Cookie_119
+  - first:
+      213: -1799918785596888775
+    second: Mobile - Cookie Run - Brave Cookie_120
+  - first:
+      213: 2089995521659516451
+    second: Mobile - Cookie Run - Brave Cookie_121
+  - first:
+      213: 8092778003234055633
+    second: Mobile - Cookie Run - Brave Cookie_122
+  - first:
+      213: 3316240479585644076
+    second: Mobile - Cookie Run - Brave Cookie_123
+  - first:
+      213: 5059415295320635903
+    second: Mobile - Cookie Run - Brave Cookie_124
+  - first:
+      213: -9216502665382889278
+    second: Mobile - Cookie Run - Brave Cookie_125
+  - first:
+      213: 5247325567174507340
+    second: Mobile - Cookie Run - Brave Cookie_126
+  - first:
+      213: -5069839719830091548
+    second: Mobile - Cookie Run - Brave Cookie_127
+  - first:
+      213: 1530095772444949194
+    second: Mobile - Cookie Run - Brave Cookie_128
+  - first:
+      213: -1593053758927582699
+    second: Mobile - Cookie Run - Brave Cookie_129
+  - first:
+      213: -6327304897607197675
+    second: Mobile - Cookie Run - Brave Cookie_130
+  - first:
+      213: -3625105908935581920
+    second: Mobile - Cookie Run - Brave Cookie_131
+  - first:
+      213: 1715965998868609919
+    second: Mobile - Cookie Run - Brave Cookie_132
+  - first:
+      213: 5206770700915433701
+    second: Mobile - Cookie Run - Brave Cookie_133
+  - first:
+      213: 3712702673598992353
+    second: Mobile - Cookie Run - Brave Cookie_134
+  - first:
+      213: 1122743594895937284
+    second: Mobile - Cookie Run - Brave Cookie_135
+  - first:
+      213: 2779360048085021637
+    second: Mobile - Cookie Run - Brave Cookie_136
+  - first:
+      213: -4931892376163280437
+    second: Mobile - Cookie Run - Brave Cookie_137
+  - first:
+      213: -5637457182006465341
+    second: Mobile - Cookie Run - Brave Cookie_138
+  - first:
+      213: -3109941152332812536
+    second: Mobile - Cookie Run - Brave Cookie_139
+  - first:
+      213: -8272057162148063494
+    second: Mobile - Cookie Run - Brave Cookie_140
+  - first:
+      213: -997532338955510848
+    second: Mobile - Cookie Run - Brave Cookie_141
+  - first:
+      213: 1013966182964723512
+    second: Mobile - Cookie Run - Brave Cookie_142
+  - first:
+      213: -6284841404858245942
+    second: Mobile - Cookie Run - Brave Cookie_143
+  - first:
+      213: -6876276578343726560
+    second: Mobile - Cookie Run - Brave Cookie_144
+  - first:
+      213: 8312137843652311344
+    second: Mobile - Cookie Run - Brave Cookie_145
+  - first:
+      213: 7494595992889409618
+    second: Mobile - Cookie Run - Brave Cookie_146
+  - first:
+      213: -5153586320579191288
+    second: Mobile - Cookie Run - Brave Cookie_147
+  - first:
+      213: 952036225333972659
+    second: Mobile - Cookie Run - Brave Cookie_148
+  - first:
+      213: 5360730968202909188
+    second: Mobile - Cookie Run - Brave Cookie_149
+  - first:
+      213: -2984466867404083425
+    second: Mobile - Cookie Run - Brave Cookie_150
+  - first:
+      213: -695503157003402001
+    second: Mobile - Cookie Run - Brave Cookie_151
+  - first:
+      213: -7833439598142955328
+    second: Mobile - Cookie Run - Brave Cookie_152
+  - first:
+      213: 1481736323931668367
+    second: Mobile - Cookie Run - Brave Cookie_153
+  - first:
+      213: -534606144133392106
+    second: Mobile - Cookie Run - Brave Cookie_154
+  - first:
+      213: -8231585623489994028
+    second: Mobile - Cookie Run - Brave Cookie_155
+  - first:
+      213: -2499806004623507039
+    second: Mobile - Cookie Run - Brave Cookie_156
+  - first:
+      213: -7109931871381973036
+    second: Mobile - Cookie Run - Brave Cookie_157
+  - first:
+      213: 4613747720134019235
+    second: Mobile - Cookie Run - Brave Cookie_158
+  - first:
+      213: 3870993800835316309
+    second: Mobile - Cookie Run - Brave Cookie_159
+  - first:
+      213: -4439441405320413159
+    second: Mobile - Cookie Run - Brave Cookie_160
+  - first:
+      213: 7767698674863211608
+    second: Mobile - Cookie Run - Brave Cookie_161
+  - first:
+      213: 1307859983731021643
+    second: Mobile - Cookie Run - Brave Cookie_162
+  - first:
+      213: -8418864412352673451
+    second: Mobile - Cookie Run - Brave Cookie_163
+  - first:
+      213: 685320960417540186
+    second: Mobile - Cookie Run - Brave Cookie_164
+  - first:
+      213: 4073910002915996667
+    second: Mobile - Cookie Run - Brave Cookie_165
+  - first:
+      213: 272536387424897693
+    second: Mobile - Cookie Run - Brave Cookie_166
+  - first:
+      213: 2813994217529070208
+    second: Mobile - Cookie Run - Brave Cookie_167
+  - first:
+      213: -3486130865338776380
+    second: Mobile - Cookie Run - Brave Cookie_168
+  - first:
+      213: 3660454342435244809
+    second: Mobile - Cookie Run - Brave Cookie_169
+  - first:
+      213: 3961218871801341885
+    second: Mobile - Cookie Run - Brave Cookie_170
+  - first:
+      213: -350859519480800948
+    second: Mobile - Cookie Run - Brave Cookie_171
+  - first:
+      213: -4175514103509544138
+    second: Mobile - Cookie Run - Brave Cookie_172
+  - first:
+      213: -1194330378008625780
+    second: Mobile - Cookie Run - Brave Cookie_173
+  - first:
+      213: -6461941974774415976
+    second: Mobile - Cookie Run - Brave Cookie_174
+  - first:
+      213: -2096786494038240571
+    second: Mobile - Cookie Run - Brave Cookie_175
+  - first:
+      213: -1513723382142183997
+    second: Mobile - Cookie Run - Brave Cookie_176
+  - first:
+      213: 6266024599528741421
+    second: Mobile - Cookie Run - Brave Cookie_177
+  - first:
+      213: -1595977621098447068
+    second: Mobile - Cookie Run - Brave Cookie_178
+  - first:
+      213: -4466853838003681221
+    second: Mobile - Cookie Run - Brave Cookie_179
+  - first:
+      213: 2848678026328087715
+    second: Mobile - Cookie Run - Brave Cookie_180
+  - first:
+      213: -8742608735085452051
+    second: Mobile - Cookie Run - Brave Cookie_181
+  - first:
+      213: 1625163596386213146
+    second: Mobile - Cookie Run - Brave Cookie_182
+  - first:
+      213: -2441578384433956534
+    second: Mobile - Cookie Run - Brave Cookie_183
+  - first:
+      213: -8436719218009692245
+    second: Mobile - Cookie Run - Brave Cookie_184
+  - first:
+      213: 8147858425205905924
+    second: Mobile - Cookie Run - Brave Cookie_185
+  - first:
+      213: -8846344680080919661
+    second: Mobile - Cookie Run - Brave Cookie_186
+  - first:
+      213: 3304362747600610919
+    second: Mobile - Cookie Run - Brave Cookie_187
+  - first:
+      213: 290711552153344775
+    second: Mobile - Cookie Run - Brave Cookie_188
+  - first:
+      213: -6611793449535262073
+    second: Mobile - Cookie Run - Brave Cookie_189
+  - first:
+      213: 4679105374848676052
+    second: Mobile - Cookie Run - Brave Cookie_190
+  - first:
+      213: -4093950538006577768
+    second: Mobile - Cookie Run - Brave Cookie_191
+  - first:
+      213: -535793201920809066
+    second: Mobile - Cookie Run - Brave Cookie_192
+  - first:
+      213: -1765273852135698162
+    second: Mobile - Cookie Run - Brave Cookie_193
+  - first:
+      213: 7212218024070741724
+    second: Mobile - Cookie Run - Brave Cookie_194
+  - first:
+      213: -8235766665962273841
+    second: Mobile - Cookie Run - Brave Cookie_195
+  - first:
+      213: -5163122301196793318
+    second: Mobile - Cookie Run - Brave Cookie_196
+  - first:
+      213: 7970577960549860279
+    second: Mobile - Cookie Run - Brave Cookie_197
+  - first:
+      213: -4542161742417346836
+    second: Mobile - Cookie Run - Brave Cookie_198
+  - first:
+      213: 8866985403940822418
+    second: Mobile - Cookie Run - Brave Cookie_199
+  - first:
+      213: -6870238385015490784
+    second: Mobile - Cookie Run - Brave Cookie_200
+  - first:
+      213: 2624614134683651863
+    second: Mobile - Cookie Run - Brave Cookie_201
+  - first:
+      213: -2504022087292584714
+    second: Mobile - Cookie Run - Brave Cookie_202
+  - first:
+      213: -1376446748956554371
+    second: Mobile - Cookie Run - Brave Cookie_203
+  - first:
+      213: 2576539413470613552
+    second: Mobile - Cookie Run - Brave Cookie_204
+  - first:
+      213: -2211472650189778708
+    second: Mobile - Cookie Run - Brave Cookie_205
+  - first:
+      213: -7508196482052039079
+    second: Mobile - Cookie Run - Brave Cookie_206
+  - first:
+      213: 4796056952060021351
+    second: Mobile - Cookie Run - Brave Cookie_207
+  - first:
+      213: -4528712593105657100
+    second: Mobile - Cookie Run - Brave Cookie_208
+  - first:
+      213: 7779451103120124348
+    second: Mobile - Cookie Run - Brave Cookie_209
+  - first:
+      213: -796950126140638853
+    second: Mobile - Cookie Run - Brave Cookie_210
+  - first:
+      213: 3609699693870520894
+    second: Mobile - Cookie Run - Brave Cookie_211
+  - first:
+      213: -5569239830224513401
+    second: Mobile - Cookie Run - Brave Cookie_212
+  - first:
+      213: 2444769282691071685
+    second: Mobile - Cookie Run - Brave Cookie_213
+  - first:
+      213: -7741236897811694182
+    second: Mobile - Cookie Run - Brave Cookie_214
+  - first:
+      213: -1084112650199309604
+    second: Mobile - Cookie Run - Brave Cookie_215
+  - first:
+      213: 3429637857132894887
+    second: Mobile - Cookie Run - Brave Cookie_216
+  - first:
+      213: -4279970454125874461
+    second: Mobile - Cookie Run - Brave Cookie_217
+  - first:
+      213: 4966487174280108996
+    second: Mobile - Cookie Run - Brave Cookie_218
+  - first:
+      213: 7314673632219791159
+    second: Mobile - Cookie Run - Brave Cookie_219
+  - first:
+      213: -5707121067652645005
+    second: Mobile - Cookie Run - Brave Cookie_220
+  - first:
+      213: 6507673917360843835
+    second: Mobile - Cookie Run - Brave Cookie_221
+  - first:
+      213: -6947692679068952746
+    second: Mobile - Cookie Run - Brave Cookie_222
+  - first:
+      213: 594953484215315776
+    second: Mobile - Cookie Run - Brave Cookie_223
+  - first:
+      213: -3570734438011090663
+    second: Mobile - Cookie Run - Brave Cookie_224
+  - first:
+      213: 6964452152651573978
+    second: Mobile - Cookie Run - Brave Cookie_225
+  - first:
+      213: -8687910488077977771
+    second: Mobile - Cookie Run - Brave Cookie_226
+  - first:
+      213: -3207712279488293379
+    second: Mobile - Cookie Run - Brave Cookie_227
+  - first:
+      213: 5507781554904421180
+    second: Mobile - Cookie Run - Brave Cookie_228
+  - first:
+      213: 5727244110324324483
+    second: Mobile - Cookie Run - Brave Cookie_229
+  - first:
+      213: -3148774114987648423
+    second: Mobile - Cookie Run - Brave Cookie_230
+  - first:
+      213: 3663066178989616791
+    second: Mobile - Cookie Run - Brave Cookie_231
+  - first:
+      213: -2786808173535017687
+    second: Mobile - Cookie Run - Brave Cookie_232
+  - first:
+      213: -2112845566160189998
+    second: Mobile - Cookie Run - Brave Cookie_233
+  - first:
+      213: 864725387074973637
+    second: Mobile - Cookie Run - Brave Cookie_234
+  - first:
+      213: 9083273900846913835
+    second: Mobile - Cookie Run - Brave Cookie_235
+  - first:
+      213: 7029158207306398835
+    second: Mobile - Cookie Run - Brave Cookie_236
+  - first:
+      213: 4101902358984861361
+    second: Mobile - Cookie Run - Brave Cookie_237
+  - first:
+      213: 7746670806800635552
+    second: Mobile - Cookie Run - Brave Cookie_238
+  - first:
+      213: 2908564158981225514
+    second: Mobile - Cookie Run - Brave Cookie_239
+  - first:
+      213: -1978945238182717766
+    second: Mobile - Cookie Run - Brave Cookie_240
+  - first:
+      213: -4493398840711742623
+    second: Mobile - Cookie Run - Brave Cookie_241
+  - first:
+      213: -7079325845256741498
+    second: Mobile - Cookie Run - Brave Cookie_242
+  - first:
+      213: -6603397229250325810
+    second: Mobile - Cookie Run - Brave Cookie_243
+  - first:
+      213: 1362222186577733823
+    second: Mobile - Cookie Run - Brave Cookie_244
+  - first:
+      213: 2600788770406078039
+    second: Mobile - Cookie Run - Brave Cookie_245
+  - first:
+      213: 3750607265773836376
+    second: Mobile - Cookie Run - Brave Cookie_246
+  - first:
+      213: 939707153676031409
+    second: Mobile - Cookie Run - Brave Cookie_247
+  - first:
+      213: -7317614092463593641
+    second: Mobile - Cookie Run - Brave Cookie_248
+  - first:
+      213: -655216784133083263
+    second: Mobile - Cookie Run - Brave Cookie_249
+  - first:
+      213: -6318089538498561652
+    second: Mobile - Cookie Run - Brave Cookie_250
+  - first:
+      213: 6902779533286594805
+    second: Mobile - Cookie Run - Brave Cookie_251
+  - first:
+      213: 5602423320482296808
+    second: Mobile - Cookie Run - Brave Cookie_252
+  - first:
+      213: -1479309569907299933
+    second: Mobile - Cookie Run - Brave Cookie_253
+  - first:
+      213: 501972877440353514
+    second: Mobile - Cookie Run - Brave Cookie_254
+  - first:
+      213: -8994216673060836205
+    second: Mobile - Cookie Run - Brave Cookie_255
+  - first:
+      213: 7606938513202543579
+    second: Mobile - Cookie Run - Brave Cookie_256
+  - first:
+      213: 6451012872369521924
+    second: Mobile - Cookie Run - Brave Cookie_257
+  - first:
+      213: -562583207722807656
+    second: Mobile - Cookie Run - Brave Cookie_258
+  - first:
+      213: 2436078003950358648
+    second: Mobile - Cookie Run - Brave Cookie_259
+  - first:
+      213: 5516708066363169631
+    second: Mobile - Cookie Run - Brave Cookie_260
+  - first:
+      213: 1980110311353810317
+    second: Mobile - Cookie Run - Brave Cookie_261
+  - first:
+      213: -2628876476669173383
+    second: Mobile - Cookie Run - Brave Cookie_262
+  - first:
+      213: 8372299796656827421
+    second: Mobile - Cookie Run - Brave Cookie_263
+  - first:
+      213: 1022113114838458015
+    second: Mobile - Cookie Run - Brave Cookie_264
+  - first:
+      213: 717956359539016835
+    second: Mobile - Cookie Run - Brave Cookie_265
+  - first:
+      213: -1927701094943372774
+    second: Mobile - Cookie Run - Brave Cookie_266
+  - first:
+      213: 47744355703376259
+    second: Mobile - Cookie Run - Brave Cookie_267
+  - first:
+      213: 1357518385642917916
+    second: Mobile - Cookie Run - Brave Cookie_268
+  - first:
+      213: -7613570545292687409
+    second: Mobile - Cookie Run - Brave Cookie_269
+  - first:
+      213: -3059531092668471574
+    second: Mobile - Cookie Run - Brave Cookie_270
+  - first:
+      213: -8080843117457009296
+    second: Mobile - Cookie Run - Brave Cookie_271
+  - first:
+      213: -7285662512845780649
+    second: Mobile - Cookie Run - Brave Cookie_272
+  - first:
+      213: -606545844399878538
+    second: Mobile - Cookie Run - Brave Cookie_273
+  - first:
+      213: 4718954518046268159
+    second: Mobile - Cookie Run - Brave Cookie_274
+  - first:
+      213: 7183978449735765447
+    second: Mobile - Cookie Run - Brave Cookie_275
+  - first:
+      213: -1318910289882562181
+    second: Mobile - Cookie Run - Brave Cookie_276
+  - first:
+      213: -8633122445636575861
+    second: Mobile - Cookie Run - Brave Cookie_277
+  - first:
+      213: -5194791927537991727
+    second: Mobile - Cookie Run - Brave Cookie_278
+  - first:
+      213: 1224793951976571405
+    second: Mobile - Cookie Run - Brave Cookie_279
+  - first:
+      213: 4521643336250768607
+    second: Mobile - Cookie Run - Brave Cookie_280
+  - first:
+      213: -5472107519389013718
+    second: Mobile - Cookie Run - Brave Cookie_281
+  - first:
+      213: -6921416468737022811
+    second: Mobile - Cookie Run - Brave Cookie_282
+  - first:
+      213: 815714072468242214
+    second: Mobile - Cookie Run - Brave Cookie_283
+  - first:
+      213: -9159147757232841556
+    second: Mobile - Cookie Run - Brave Cookie_284
+  - first:
+      213: -9015934864199754812
+    second: Mobile - Cookie Run - Brave Cookie_285
+  - first:
+      213: 4736858212427148009
+    second: Mobile - Cookie Run - Brave Cookie_286
+  - first:
+      213: -1779556936871097485
+    second: Mobile - Cookie Run - Brave Cookie_287
+  - first:
+      213: 4782451517074752506
+    second: Mobile - Cookie Run - Brave Cookie_288
+  - first:
+      213: -1270092022321137055
+    second: Mobile - Cookie Run - Brave Cookie_289
+  - first:
+      213: 8081275285475813002
+    second: Mobile - Cookie Run - Brave Cookie_290
+  - first:
+      213: -2126257090232391310
+    second: Mobile - Cookie Run - Brave Cookie_291
+  - first:
+      213: 1740786825943353671
+    second: Mobile - Cookie Run - Brave Cookie_292
+  - first:
+      213: -5717228033417141833
+    second: Mobile - Cookie Run - Brave Cookie_293
+  - first:
+      213: -5690906368925278930
+    second: Mobile - Cookie Run - Brave Cookie_294
+  - first:
+      213: 8691816878628356627
+    second: Mobile - Cookie Run - Brave Cookie_295
+  - first:
+      213: 4851320434732691673
+    second: Mobile - Cookie Run - Brave Cookie_296
+  - first:
+      213: -3215158893540758386
+    second: Mobile - Cookie Run - Brave Cookie_297
+  - first:
+      213: -695381009301216555
+    second: Mobile - Cookie Run - Brave Cookie_298
+  - first:
+      213: -724445279808320927
+    second: Mobile - Cookie Run - Brave Cookie_299
+  - first:
+      213: 312881231706858727
+    second: Mobile - Cookie Run - Brave Cookie_300
+  - first:
+      213: 4227339052945099038
+    second: Mobile - Cookie Run - Brave Cookie_301
+  - first:
+      213: -8332583575614287665
+    second: Mobile - Cookie Run - Brave Cookie_302
+  - first:
+      213: -4459182927601645877
+    second: Mobile - Cookie Run - Brave Cookie_303
+  - first:
+      213: 3577056649181841225
+    second: Mobile - Cookie Run - Brave Cookie_304
+  - first:
+      213: -1676388106533549059
+    second: Mobile - Cookie Run - Brave Cookie_305
+  - first:
+      213: 8805539175479673263
+    second: Mobile - Cookie Run - Brave Cookie_306
+  - first:
+      213: -3977929776960895478
+    second: Mobile - Cookie Run - Brave Cookie_307
+  - first:
+      213: 6474419484235269031
+    second: Mobile - Cookie Run - Brave Cookie_308
+  - first:
+      213: -5929897439331437654
+    second: Mobile - Cookie Run - Brave Cookie_309
+  - first:
+      213: -7149213669936180964
+    second: Mobile - Cookie Run - Brave Cookie_310
+  - first:
+      213: -3883273619631826155
+    second: Mobile - Cookie Run - Brave Cookie_311
+  - first:
+      213: -7067432209106977373
+    second: Mobile - Cookie Run - Brave Cookie_312
+  - first:
+      213: -3637722395091110269
+    second: Mobile - Cookie Run - Brave Cookie_313
+  - first:
+      213: 920416179038763232
+    second: Mobile - Cookie Run - Brave Cookie_314
+  - first:
+      213: -5746729050157159085
+    second: Mobile - Cookie Run - Brave Cookie_315
+  - first:
+      213: 9142736338183725887
+    second: Mobile - Cookie Run - Brave Cookie_316
+  - first:
+      213: 6627959270567000874
+    second: Mobile - Cookie Run - Brave Cookie_317
+  - first:
+      213: -8991399723340826619
+    second: Mobile - Cookie Run - Brave Cookie_318
+  - first:
+      213: -2795702268455524934
+    second: Mobile - Cookie Run - Brave Cookie_319
+  - first:
+      213: -209788880671248302
+    second: Mobile - Cookie Run - Brave Cookie_320
+  - first:
+      213: -338888004544923166
+    second: Mobile - Cookie Run - Brave Cookie_321
+  - first:
+      213: -4307249007273031225
+    second: Mobile - Cookie Run - Brave Cookie_322
+  - first:
+      213: 8745283152667043833
+    second: Mobile - Cookie Run - Brave Cookie_323
+  - first:
+      213: -8788558290780265445
+    second: Mobile - Cookie Run - Brave Cookie_324
+  - first:
+      213: -9031086149481798378
+    second: Mobile - Cookie Run - Brave Cookie_325
+  - first:
+      213: 7315711681252624671
+    second: Mobile - Cookie Run - Brave Cookie_326
+  - first:
+      213: -2134064140990767947
+    second: Mobile - Cookie Run - Brave Cookie_327
+  - first:
+      213: -1778864044013581493
+    second: Mobile - Cookie Run - Brave Cookie_328
+  - first:
+      213: 4375089493871966889
+    second: Mobile - Cookie Run - Brave Cookie_329
+  - first:
+      213: -7114777030908926838
+    second: Mobile - Cookie Run - Brave Cookie_330
+  - first:
+      213: -3815908266635813992
+    second: Mobile - Cookie Run - Brave Cookie_331
+  - first:
+      213: 8528574020029150073
+    second: Mobile - Cookie Run - Brave Cookie_332
+  - first:
+      213: 1903761125547163219
+    second: Mobile - Cookie Run - Brave Cookie_333
+  - first:
+      213: -8819774151521519430
+    second: Mobile - Cookie Run - Brave Cookie_334
+  - first:
+      213: 6687766637435651123
+    second: Mobile - Cookie Run - Brave Cookie_335
+  - first:
+      213: -3939854109027433363
+    second: Mobile - Cookie Run - Brave Cookie_336
+  - first:
+      213: -7289326413996614396
+    second: Mobile - Cookie Run - Brave Cookie_337
+  - first:
+      213: 4639016645818847579
+    second: Mobile - Cookie Run - Brave Cookie_338
+  - first:
+      213: -7975579548598922666
+    second: Mobile - Cookie Run - Brave Cookie_339
+  - first:
+      213: 3035807468310575304
+    second: Mobile - Cookie Run - Brave Cookie_340
+  - first:
+      213: -3222143392428962874
+    second: Mobile - Cookie Run - Brave Cookie_341
+  - first:
+      213: 8920511906573596803
+    second: Mobile - Cookie Run - Brave Cookie_342
+  - first:
+      213: -3667867720532701440
+    second: Mobile - Cookie Run - Brave Cookie_343
+  - first:
+      213: -8452610395177333905
+    second: Mobile - Cookie Run - Brave Cookie_344
+  - first:
+      213: 615384360186447587
+    second: Mobile - Cookie Run - Brave Cookie_345
+  - first:
+      213: 4287399603277446649
+    second: Mobile - Cookie Run - Brave Cookie_346
+  - first:
+      213: -1725122455645799300
+    second: Mobile - Cookie Run - Brave Cookie_347
+  - first:
+      213: 1559922375829136504
+    second: Mobile - Cookie Run - Brave Cookie_348
+  - first:
+      213: -7018895990495228436
+    second: Mobile - Cookie Run - Brave Cookie_349
+  - first:
+      213: 7152249036881028723
+    second: Mobile - Cookie Run - Brave Cookie_350
+  - first:
+      213: 4219416501042249202
+    second: Mobile - Cookie Run - Brave Cookie_351
+  - first:
+      213: 7759792255183755415
+    second: Mobile - Cookie Run - Brave Cookie_352
+  - first:
+      213: 4297048049626519393
+    second: Mobile - Cookie Run - Brave Cookie_353
+  - first:
+      213: 6091830517201874846
+    second: Mobile - Cookie Run - Brave Cookie_354
+  - first:
+      213: -4305761282894642428
+    second: Mobile - Cookie Run - Brave Cookie_355
+  - first:
+      213: -8635339334765257924
+    second: Mobile - Cookie Run - Brave Cookie_356
+  - first:
+      213: 1748294362857641278
+    second: Mobile - Cookie Run - Brave Cookie_357
+  - first:
+      213: -3268962527012007651
+    second: Mobile - Cookie Run - Brave Cookie_358
+  - first:
+      213: -6596281669090384580
+    second: Mobile - Cookie Run - Brave Cookie_359
+  - first:
+      213: 2603405441074699089
+    second: Mobile - Cookie Run - Brave Cookie_360
+  - first:
+      213: 3032626965526886289
+    second: Mobile - Cookie Run - Brave Cookie_361
+  - first:
+      213: 1894556939763667754
+    second: Mobile - Cookie Run - Brave Cookie_362
+  - first:
+      213: 3004922627817191086
+    second: Mobile - Cookie Run - Brave Cookie_363
+  - first:
+      213: 3166570289421101140
+    second: Mobile - Cookie Run - Brave Cookie_364
+  - first:
+      213: 6059033835788282668
+    second: Mobile - Cookie Run - Brave Cookie_365
+  - first:
+      213: 5646103085691467500
+    second: Mobile - Cookie Run - Brave Cookie_366
+  - first:
+      213: -5349319661334582025
+    second: Mobile - Cookie Run - Brave Cookie_367
+  - first:
+      213: 1728418569584342709
+    second: Mobile - Cookie Run - Brave Cookie_368
+  - first:
+      213: -9077017575725085213
+    second: Mobile - Cookie Run - Brave Cookie_369
+  - first:
+      213: -3580491627918768139
+    second: Mobile - Cookie Run - Brave Cookie_370
+  - first:
+      213: 4413111329153180644
+    second: Mobile - Cookie Run - Brave Cookie_371
+  - first:
+      213: 4275765850490852103
+    second: Mobile - Cookie Run - Brave Cookie_372
+  - first:
+      213: 5608866651239928667
+    second: Mobile - Cookie Run - Brave Cookie_373
+  - first:
+      213: -1777477107241687539
+    second: Mobile - Cookie Run - Brave Cookie_374
+  - first:
+      213: 1587843609261656944
+    second: Mobile - Cookie Run - Brave Cookie_375
+  - first:
+      213: -5032263741982184450
+    second: Mobile - Cookie Run - Brave Cookie_376
+  - first:
+      213: 8264943038091939757
+    second: Mobile - Cookie Run - Brave Cookie_377
+  - first:
+      213: 7822230185526383075
+    second: Mobile - Cookie Run - Brave Cookie_378
+  - first:
+      213: 4586919360220623244
+    second: Mobile - Cookie Run - Brave Cookie_379
+  - first:
+      213: -6914430618240423717
+    second: Mobile - Cookie Run - Brave Cookie_380
+  - first:
+      213: -709352110444998309
+    second: Mobile - Cookie Run - Brave Cookie_381
+  - first:
+      213: -3896572719745088836
+    second: Mobile - Cookie Run - Brave Cookie_382
+  - first:
+      213: 7656711417783112957
+    second: Mobile - Cookie Run - Brave Cookie_383
+  - first:
+      213: -3370553289122024108
+    second: Mobile - Cookie Run - Brave Cookie_384
+  - first:
+      213: -1203170029500483514
+    second: Mobile - Cookie Run - Brave Cookie_385
+  - first:
+      213: -5521230319651220534
+    second: Mobile - Cookie Run - Brave Cookie_386
+  - first:
+      213: 4831387443353975444
+    second: Mobile - Cookie Run - Brave Cookie_387
+  - first:
+      213: -9082726923632608344
+    second: Mobile - Cookie Run - Brave Cookie_388
+  - first:
+      213: 5168484988262739762
+    second: Mobile - Cookie Run - Brave Cookie_389
+  - first:
+      213: 4659839306863135557
+    second: Mobile - Cookie Run - Brave Cookie_390
+  - first:
+      213: 4835578694780170791
+    second: Mobile - Cookie Run - Brave Cookie_391
+  - first:
+      213: -8445687684693478222
+    second: Mobile - Cookie Run - Brave Cookie_392
+  - first:
+      213: -746784656607925072
+    second: Mobile - Cookie Run - Brave Cookie_393
+  - first:
+      213: -1682064216122859570
+    second: Mobile - Cookie Run - Brave Cookie_394
+  - first:
+      213: -657378465199270456
+    second: Mobile - Cookie Run - Brave Cookie_395
+  - first:
+      213: 7003417809985415139
+    second: Mobile - Cookie Run - Brave Cookie_396
+  - first:
+      213: 4635494057462890909
+    second: Mobile - Cookie Run - Brave Cookie_397
+  - first:
+      213: -9002932548528120993
+    second: Mobile - Cookie Run - Brave Cookie_398
+  - first:
+      213: -2720128958343772262
+    second: Mobile - Cookie Run - Brave Cookie_399
+  - first:
+      213: 989574845505919013
+    second: Mobile - Cookie Run - Brave Cookie_400
+  - first:
+      213: -6798333422618952767
+    second: Mobile - Cookie Run - Brave Cookie_401
+  - first:
+      213: -1317554520392700602
+    second: Mobile - Cookie Run - Brave Cookie_402
+  - first:
+      213: 2942270150294400550
+    second: Mobile - Cookie Run - Brave Cookie_403
+  - first:
+      213: -3963246791981794444
+    second: Mobile - Cookie Run - Brave Cookie_404
+  - first:
+      213: -5498682122180942439
+    second: Mobile - Cookie Run - Brave Cookie_405
+  - first:
+      213: 2200350442355425944
+    second: Mobile - Cookie Run - Brave Cookie_406
+  - first:
+      213: 1149282568481519179
+    second: Mobile - Cookie Run - Brave Cookie_407
+  - first:
+      213: 5393309446324306324
+    second: Mobile - Cookie Run - Brave Cookie_408
+  - first:
+      213: -3813018383135542723
+    second: Mobile - Cookie Run - Brave Cookie_409
+  - first:
+      213: -5220194244625814138
+    second: Mobile - Cookie Run - Brave Cookie_410
+  - first:
+      213: 1700865910488601247
+    second: Mobile - Cookie Run - Brave Cookie_411
+  - first:
+      213: 7362126832598666220
+    second: Mobile - Cookie Run - Brave Cookie_412
+  - first:
+      213: -3538762380438633294
+    second: Mobile - Cookie Run - Brave Cookie_413
+  - first:
+      213: -8127018152359405761
+    second: Mobile - Cookie Run - Brave Cookie_414
+  - first:
+      213: 8048631724532052221
+    second: Mobile - Cookie Run - Brave Cookie_415
+  - first:
+      213: 4643065357992625502
+    second: Mobile - Cookie Run - Brave Cookie_416
+  - first:
+      213: -7682432927033816493
+    second: Mobile - Cookie Run - Brave Cookie_417
+  - first:
+      213: 6871350458348610087
+    second: Mobile - Cookie Run - Brave Cookie_418
+  - first:
+      213: -450667356337483506
+    second: Mobile - Cookie Run - Brave Cookie_419
+  - first:
+      213: -3955723591066898658
+    second: Mobile - Cookie Run - Brave Cookie_420
+  - first:
+      213: 4932765766516909774
+    second: Mobile - Cookie Run - Brave Cookie_421
+  - first:
+      213: 8916810508226533497
+    second: Mobile - Cookie Run - Brave Cookie_422
+  - first:
+      213: 5174738261444685881
+    second: Mobile - Cookie Run - Brave Cookie_423
+  - first:
+      213: -750577321621352726
+    second: Mobile - Cookie Run - Brave Cookie_424
+  - first:
+      213: 8042871435301525969
+    second: Mobile - Cookie Run - Brave Cookie_425
+  - first:
+      213: -4272718495162446466
+    second: Mobile - Cookie Run - Brave Cookie_426
+  - first:
+      213: -707178059189629756
+    second: Mobile - Cookie Run - Brave Cookie_427
+  - first:
+      213: -4829392057004520083
+    second: Mobile - Cookie Run - Brave Cookie_428
+  - first:
+      213: -2227219267715308218
+    second: Mobile - Cookie Run - Brave Cookie_429
+  - first:
+      213: -9054769571163237344
+    second: Mobile - Cookie Run - Brave Cookie_430
+  - first:
+      213: 9102104682977497996
+    second: Mobile - Cookie Run - Brave Cookie_431
+  - first:
+      213: -4045238063182575133
+    second: Mobile - Cookie Run - Brave Cookie_432
+  - first:
+      213: 8318436086850184936
+    second: Mobile - Cookie Run - Brave Cookie_433
+  - first:
+      213: 5660171918269873258
+    second: Mobile - Cookie Run - Brave Cookie_434
+  - first:
+      213: 1458573036667557954
+    second: Mobile - Cookie Run - Brave Cookie_435
+  - first:
+      213: -7419819239291612093
+    second: Mobile - Cookie Run - Brave Cookie_436
+  - first:
+      213: 6241589097823361302
+    second: Mobile - Cookie Run - Brave Cookie_437
+  - first:
+      213: -5172252167191234672
+    second: Mobile - Cookie Run - Brave Cookie_438
+  - first:
+      213: -2213808363941655941
+    second: Mobile - Cookie Run - Brave Cookie_439
+  - first:
+      213: 4557710860511254741
+    second: Mobile - Cookie Run - Brave Cookie_440
+  - first:
+      213: 6831291218968902802
+    second: Mobile - Cookie Run - Brave Cookie_441
+  - first:
+      213: -2281058999094490245
+    second: Mobile - Cookie Run - Brave Cookie_442
+  - first:
+      213: 3030199065170123965
+    second: Mobile - Cookie Run - Brave Cookie_443
+  - first:
+      213: 3361267085490361166
+    second: Mobile - Cookie Run - Brave Cookie_444
+  - first:
+      213: 4068214079184392796
+    second: Mobile - Cookie Run - Brave Cookie_445
+  - first:
+      213: 3226214737247175653
+    second: Mobile - Cookie Run - Brave Cookie_446
+  - first:
+      213: 7211842201474302283
+    second: Mobile - Cookie Run - Brave Cookie_447
+  - first:
+      213: 8314476575121383651
+    second: Mobile - Cookie Run - Brave Cookie_448
+  - first:
+      213: -7405766309378995435
+    second: Mobile - Cookie Run - Brave Cookie_449
+  - first:
+      213: -1576928542968291270
+    second: Mobile - Cookie Run - Brave Cookie_450
+  - first:
+      213: 2176738267146297551
+    second: Mobile - Cookie Run - Brave Cookie_451
+  - first:
+      213: 3877433015160198222
+    second: Mobile - Cookie Run - Brave Cookie_452
+  - first:
+      213: 2974528437545029962
+    second: Mobile - Cookie Run - Brave Cookie_453
+  - first:
+      213: 8392883155825970612
+    second: Mobile - Cookie Run - Brave Cookie_454
+  - first:
+      213: -5353864543877216270
+    second: Mobile - Cookie Run - Brave Cookie_455
+  - first:
+      213: -4787882663393329348
+    second: Mobile - Cookie Run - Brave Cookie_456
+  - first:
+      213: -3097566865625472112
+    second: Mobile - Cookie Run - Brave Cookie_457
+  - first:
+      213: -1701576159802262654
+    second: Mobile - Cookie Run - Brave Cookie_458
+  - first:
+      213: -7002789803299506932
+    second: Mobile - Cookie Run - Brave Cookie_459
+  - first:
+      213: 1744239598174870050
+    second: Mobile - Cookie Run - Brave Cookie_460
+  - first:
+      213: -1707848583285258838
+    second: Mobile - Cookie Run - Brave Cookie_461
+  - first:
+      213: 1248395755655079417
+    second: Mobile - Cookie Run - Brave Cookie_462
+  - first:
+      213: 6620409046236268172
+    second: Mobile - Cookie Run - Brave Cookie_463
+  - first:
+      213: -1647723271972443480
+    second: Mobile - Cookie Run - Brave Cookie_464
+  - first:
+      213: -3389847220703870238
+    second: Mobile - Cookie Run - Brave Cookie_465
+  - first:
+      213: -4469271299371440737
+    second: Mobile - Cookie Run - Brave Cookie_466
+  - first:
+      213: -3403581955740799045
+    second: Mobile - Cookie Run - Brave Cookie_467
+  - first:
+      213: -7883469170043803810
+    second: Mobile - Cookie Run - Brave Cookie_468
+  - first:
+      213: -3707364003238257940
+    second: Mobile - Cookie Run - Brave Cookie_469
+  - first:
+      213: -8019551094217807085
+    second: Mobile - Cookie Run - Brave Cookie_470
+  - first:
+      213: -7178148553326103048
+    second: Mobile - Cookie Run - Brave Cookie_471
+  - first:
+      213: -8323819759128441387
+    second: Mobile - Cookie Run - Brave Cookie_472
+  - first:
+      213: 1735927306278185831
+    second: Mobile - Cookie Run - Brave Cookie_473
+  - first:
+      213: -8703947545726750966
+    second: Mobile - Cookie Run - Brave Cookie_474
+  - first:
+      213: -4695428249802205773
+    second: Mobile - Cookie Run - Brave Cookie_475
+  - first:
+      213: -9019926722617028254
+    second: Mobile - Cookie Run - Brave Cookie_476
+  - first:
+      213: -6751514305073379345
+    second: Mobile - Cookie Run - Brave Cookie_477
+  - first:
+      213: 4519581584392674642
+    second: Mobile - Cookie Run - Brave Cookie_478
+  - first:
+      213: 5110825500531590663
+    second: Mobile - Cookie Run - Brave Cookie_479
+  - first:
+      213: -5644302338994103142
+    second: Mobile - Cookie Run - Brave Cookie_480
+  - first:
+      213: 2686649559460281297
+    second: Mobile - Cookie Run - Brave Cookie_481
+  - first:
+      213: -4745631987578845270
+    second: Mobile - Cookie Run - Brave Cookie_482
+  - first:
+      213: -7671434895148763961
+    second: Mobile - Cookie Run - Brave Cookie_483
+  - first:
+      213: -5421186337380130697
+    second: Mobile - Cookie Run - Brave Cookie_484
+  - first:
+      213: 7287494255164315809
+    second: Mobile - Cookie Run - Brave Cookie_485
+  - first:
+      213: -7466790471880834629
+    second: Mobile - Cookie Run - Brave Cookie_486
+  - first:
+      213: 8511099347675947019
+    second: Mobile - Cookie Run - Brave Cookie_487
+  - first:
+      213: -3107363189546853536
+    second: Mobile - Cookie Run - Brave Cookie_488
+  - first:
+      213: 1680440868667409440
+    second: Mobile - Cookie Run - Brave Cookie_489
+  - first:
+      213: 1045691899010048835
+    second: Mobile - Cookie Run - Brave Cookie_490
+  - first:
+      213: -180289974833508323
+    second: Mobile - Cookie Run - Brave Cookie_491
+  - first:
+      213: -9182036224728272103
+    second: Mobile - Cookie Run - Brave Cookie_492
+  - first:
+      213: -563787156392188472
+    second: Mobile - Cookie Run - Brave Cookie_493
+  - first:
+      213: -2710621286874146180
+    second: Mobile - Cookie Run - Brave Cookie_494
+  - first:
+      213: 774568255611639422
+    second: Mobile - Cookie Run - Brave Cookie_495
+  - first:
+      213: 8057400873105068871
+    second: Mobile - Cookie Run - Brave Cookie_496
+  - first:
+      213: -5151328013158823514
+    second: Mobile - Cookie Run - Brave Cookie_497
+  - first:
+      213: 2070443692774373043
+    second: Mobile - Cookie Run - Brave Cookie_498
+  - first:
+      213: 1240155716421006434
+    second: Mobile - Cookie Run - Brave Cookie_499
+  - first:
+      213: 1168181930515656173
+    second: Mobile - Cookie Run - Brave Cookie_500
+  - first:
+      213: 3875649923137597805
+    second: Mobile - Cookie Run - Brave Cookie_501
+  - first:
+      213: 3135004842433293529
+    second: Mobile - Cookie Run - Brave Cookie_502
+  - first:
+      213: -2438247187762361574
+    second: Mobile - Cookie Run - Brave Cookie_503
+  - first:
+      213: 8357320553820836193
+    second: Mobile - Cookie Run - Brave Cookie_504
+  - first:
+      213: 8988490948242066564
+    second: Mobile - Cookie Run - Brave Cookie_505
+  - first:
+      213: -4781364686404117438
+    second: Mobile - Cookie Run - Brave Cookie_506
+  - first:
+      213: 5804895721329373446
+    second: Mobile - Cookie Run - Brave Cookie_507
+  - first:
+      213: -384053185883060564
+    second: Mobile - Cookie Run - Brave Cookie_508
+  - first:
+      213: -4054101940906155627
+    second: Mobile - Cookie Run - Brave Cookie_509
+  - first:
+      213: -5263962506833316044
+    second: Mobile - Cookie Run - Brave Cookie_510
+  - first:
+      213: 2801011983287518845
+    second: Mobile - Cookie Run - Brave Cookie_511
+  - first:
+      213: -7421615208507069879
+    second: Mobile - Cookie Run - Brave Cookie_512
+  - first:
+      213: 2415359777137754662
+    second: Mobile - Cookie Run - Brave Cookie_513
+  - first:
+      213: 6918047213647408064
+    second: Mobile - Cookie Run - Brave Cookie_514
+  - first:
+      213: 3083696067639965717
+    second: Mobile - Cookie Run - Brave Cookie_515
+  - first:
+      213: -5652447329261466844
+    second: Mobile - Cookie Run - Brave Cookie_516
+  - first:
+      213: 1641485913419290810
+    second: Mobile - Cookie Run - Brave Cookie_517
+  - first:
+      213: 1717509572629641998
+    second: Mobile - Cookie Run - Brave Cookie_518
+  - first:
+      213: 6285102697196369398
+    second: Mobile - Cookie Run - Brave Cookie_519
+  - first:
+      213: 2986167336255951395
+    second: Mobile - Cookie Run - Brave Cookie_520
+  - first:
+      213: -4557625215442458209
+    second: Mobile - Cookie Run - Brave Cookie_521
+  - first:
+      213: 6505605243455933008
+    second: Mobile - Cookie Run - Brave Cookie_522
+  - first:
+      213: 635922547307771329
+    second: Mobile - Cookie Run - Brave Cookie_523
+  - first:
+      213: 4526344993010375179
+    second: Mobile - Cookie Run - Brave Cookie_524
+  - first:
+      213: 4207466196859632709
+    second: Mobile - Cookie Run - Brave Cookie_525
+  - first:
+      213: 5765298418606091604
+    second: Mobile - Cookie Run - Brave Cookie_526
+  - first:
+      213: -115341022775776334
+    second: Mobile - Cookie Run - Brave Cookie_527
+  - first:
+      213: -330375117816786132
+    second: Mobile - Cookie Run - Brave Cookie_528
+  - first:
+      213: -5296321505214505562
+    second: Mobile - Cookie Run - Brave Cookie_529
+  - first:
+      213: -5899908567785899089
+    second: Mobile - Cookie Run - Brave Cookie_530
+  - first:
+      213: 4319840033211540207
+    second: Mobile - Cookie Run - Brave Cookie_531
+  - first:
+      213: -2675488130506549362
+    second: Mobile - Cookie Run - Brave Cookie_532
+  - first:
+      213: 2910122822651523575
+    second: Mobile - Cookie Run - Brave Cookie_533
+  - first:
+      213: -1365907791898815194
+    second: Mobile - Cookie Run - Brave Cookie_534
+  - first:
+      213: -7789984317311429698
+    second: Mobile - Cookie Run - Brave Cookie_535
+  - first:
+      213: -8724763437297754716
+    second: Mobile - Cookie Run - Brave Cookie_536
+  - first:
+      213: -7885254863233529108
+    second: Mobile - Cookie Run - Brave Cookie_537
+  - first:
+      213: 1107725932852638587
+    second: Mobile - Cookie Run - Brave Cookie_538
+  - first:
+      213: -7524130143467712697
+    second: Mobile - Cookie Run - Brave Cookie_539
+  - first:
+      213: -3373020139197316020
+    second: Mobile - Cookie Run - Brave Cookie_540
+  - first:
+      213: 2650487432423254911
+    second: Mobile - Cookie Run - Brave Cookie_541
+  - first:
+      213: -6195167481317645433
+    second: Mobile - Cookie Run - Brave Cookie_542
+  - first:
+      213: -7093583347470832759
+    second: Mobile - Cookie Run - Brave Cookie_543
+  - first:
+      213: -8984368170123151535
+    second: Mobile - Cookie Run - Brave Cookie_544
+  - first:
+      213: 7394539402473256005
+    second: Mobile - Cookie Run - Brave Cookie_545
+  - first:
+      213: 5449085422055680139
+    second: Mobile - Cookie Run - Brave Cookie_546
+  - first:
+      213: -1758018461764944321
+    second: Mobile - Cookie Run - Brave Cookie_547
+  - first:
+      213: 187607149772585586
+    second: Mobile - Cookie Run - Brave Cookie_548
+  - first:
+      213: 708324284767344526
+    second: Mobile - Cookie Run - Brave Cookie_549
+  - first:
+      213: 1398542599944563974
+    second: Mobile - Cookie Run - Brave Cookie_550
+  - first:
+      213: -5180881587390631002
+    second: Mobile - Cookie Run - Brave Cookie_551
+  - first:
+      213: 1969147486164896699
+    second: Mobile - Cookie Run - Brave Cookie_552
+  - first:
+      213: 2308173607947540790
+    second: Mobile - Cookie Run - Brave Cookie_553
+  - first:
+      213: 4833160649240420293
+    second: Mobile - Cookie Run - Brave Cookie_554
+  - first:
+      213: -5974768568245364976
+    second: Mobile - Cookie Run - Brave Cookie_555
+  - first:
+      213: -8416198777380767502
+    second: Mobile - Cookie Run - Brave Cookie_556
+  - first:
+      213: -7750434514571451859
+    second: Mobile - Cookie Run - Brave Cookie_557
+  - first:
+      213: -6556899279730596040
+    second: Mobile - Cookie Run - Brave Cookie_558
+  - first:
+      213: 7906986039253199965
+    second: Mobile - Cookie Run - Brave Cookie_559
+  - first:
+      213: -703461892890187223
+    second: Mobile - Cookie Run - Brave Cookie_560
+  - first:
+      213: 5895752626254202973
+    second: Mobile - Cookie Run - Brave Cookie_561
+  - first:
+      213: -5474387724915862058
+    second: Mobile - Cookie Run - Brave Cookie_562
+  - first:
+      213: 7992495544989415583
+    second: Mobile - Cookie Run - Brave Cookie_563
+  - first:
+      213: 4685398980374531783
+    second: Mobile - Cookie Run - Brave Cookie_564
+  - first:
+      213: -6137862816191334740
+    second: Mobile - Cookie Run - Brave Cookie_565
+  - first:
+      213: 695203011327011263
+    second: Mobile - Cookie Run - Brave Cookie_566
+  - first:
+      213: -3751871770767429735
+    second: Mobile - Cookie Run - Brave Cookie_567
+  - first:
+      213: -7105407489834881498
+    second: Mobile - Cookie Run - Brave Cookie_568
+  - first:
+      213: 3760828111791433111
+    second: Mobile - Cookie Run - Brave Cookie_569
+  - first:
+      213: -1765785469443098439
+    second: Mobile - Cookie Run - Brave Cookie_570
+  - first:
+      213: 6779623695992347706
+    second: Mobile - Cookie Run - Brave Cookie_571
+  - first:
+      213: -6459357763853359086
+    second: Mobile - Cookie Run - Brave Cookie_572
+  - first:
+      213: -4236147729039922867
+    second: Mobile - Cookie Run - Brave Cookie_573
+  - first:
+      213: -929320985365298065
+    second: Mobile - Cookie Run - Brave Cookie_574
+  - first:
+      213: 567007708119826287
+    second: Mobile - Cookie Run - Brave Cookie_575
+  - first:
+      213: 2173446561804875941
+    second: Mobile - Cookie Run - Brave Cookie_576
+  - first:
+      213: 7659302822468793603
+    second: Mobile - Cookie Run - Brave Cookie_577
+  - first:
+      213: -5849899486340129581
+    second: Mobile - Cookie Run - Brave Cookie_578
+  - first:
+      213: 4239692477659545564
+    second: Mobile - Cookie Run - Brave Cookie_579
+  - first:
+      213: -5341782595249366564
+    second: Mobile - Cookie Run - Brave Cookie_580
+  - first:
+      213: 7569065121428179003
+    second: Mobile - Cookie Run - Brave Cookie_581
+  - first:
+      213: -294243417917117505
+    second: Mobile - Cookie Run - Brave Cookie_582
+  - first:
+      213: 5801361494639184658
+    second: Mobile - Cookie Run - Brave Cookie_583
+  - first:
+      213: -5844279387634286255
+    second: Mobile - Cookie Run - Brave Cookie_584
+  - first:
+      213: -8632310387521773327
+    second: Mobile - Cookie Run - Brave Cookie_585
+  - first:
+      213: -45885134362591198
+    second: Mobile - Cookie Run - Brave Cookie_586
+  - first:
+      213: -6141588879810538155
+    second: Mobile - Cookie Run - Brave Cookie_587
+  - first:
+      213: 4791679950730544488
+    second: Mobile - Cookie Run - Brave Cookie_588
+  - first:
+      213: 1737204693059093288
+    second: Mobile - Cookie Run - Brave Cookie_589
+  - first:
+      213: 6548862541175389115
+    second: Mobile - Cookie Run - Brave Cookie_590
+  - first:
+      213: 2214862991960252372
+    second: Mobile - Cookie Run - Brave Cookie_591
+  - first:
+      213: -1643279646701758407
+    second: Mobile - Cookie Run - Brave Cookie_592
+  - first:
+      213: -4829619123078527130
+    second: Mobile - Cookie Run - Brave Cookie_593
+  - first:
+      213: 3332911319701695222
+    second: Mobile - Cookie Run - Brave Cookie_594
+  - first:
+      213: 6279683789160936829
+    second: Mobile - Cookie Run - Brave Cookie_595
+  - first:
+      213: 3701577902215680554
+    second: Mobile - Cookie Run - Brave Cookie_596
+  - first:
+      213: 3196490510797550476
+    second: Mobile - Cookie Run - Brave Cookie_597
+  - first:
+      213: 6996542475252023015
+    second: Mobile - Cookie Run - Brave Cookie_598
+  - first:
+      213: 6324587535319939608
+    second: Mobile - Cookie Run - Brave Cookie_599
+  - first:
+      213: -1881032837781623714
+    second: Mobile - Cookie Run - Brave Cookie_600
+  - first:
+      213: -5736830861501599971
+    second: Mobile - Cookie Run - Brave Cookie_601
+  - first:
+      213: -4055265315373828543
+    second: Mobile - Cookie Run - Brave Cookie_602
+  - first:
+      213: -6888321380927640393
+    second: Mobile - Cookie Run - Brave Cookie_603
+  - first:
+      213: 2424845137440472370
+    second: Mobile - Cookie Run - Brave Cookie_604
+  - first:
+      213: -2457379359281646862
+    second: Mobile - Cookie Run - Brave Cookie_605
+  - first:
+      213: 4755463685777712418
+    second: Mobile - Cookie Run - Brave Cookie_606
+  - first:
+      213: 8337857268838528386
+    second: Mobile - Cookie Run - Brave Cookie_607
+  - first:
+      213: -1484563007883340896
+    second: Mobile - Cookie Run - Brave Cookie_608
+  - first:
+      213: 3173048168831058179
+    second: Mobile - Cookie Run - Brave Cookie_609
+  - first:
+      213: -2373819733030172955
+    second: Mobile - Cookie Run - Brave Cookie_610
+  - first:
+      213: 760239100780281054
+    second: Mobile - Cookie Run - Brave Cookie_611
+  - first:
+      213: 8989680580702163036
+    second: Mobile - Cookie Run - Brave Cookie_612
+  - first:
+      213: 6960421288524967558
+    second: Mobile - Cookie Run - Brave Cookie_613
+  - first:
+      213: -2743879964236693327
+    second: Mobile - Cookie Run - Brave Cookie_614
+  - first:
+      213: -5326031564156844953
+    second: Mobile - Cookie Run - Brave Cookie_615
+  - first:
+      213: -2411446672215606330
+    second: Mobile - Cookie Run - Brave Cookie_616
+  - first:
+      213: -1836468196830126780
+    second: Mobile - Cookie Run - Brave Cookie_617
+  - first:
+      213: 3911579692639708494
+    second: Mobile - Cookie Run - Brave Cookie_618
+  - first:
+      213: 78524761970432461
+    second: Mobile - Cookie Run - Brave Cookie_619
+  - first:
+      213: 812482049012200782
+    second: Mobile - Cookie Run - Brave Cookie_620
+  - first:
+      213: -1861606739727993149
+    second: Mobile - Cookie Run - Brave Cookie_621
+  - first:
+      213: 2206582141821386310
+    second: Mobile - Cookie Run - Brave Cookie_622
+  - first:
+      213: -2973972729250081026
+    second: Mobile - Cookie Run - Brave Cookie_623
+  - first:
+      213: 8831234786460507106
+    second: Mobile - Cookie Run - Brave Cookie_624
+  - first:
+      213: 1308906164647336727
+    second: Mobile - Cookie Run - Brave Cookie_625
+  - first:
+      213: 2484985599501331843
+    second: Mobile - Cookie Run - Brave Cookie_626
+  - first:
+      213: -2173788802738219989
+    second: Mobile - Cookie Run - Brave Cookie_627
+  - first:
+      213: 9221756762944336576
+    second: Mobile - Cookie Run - Brave Cookie_628
+  - first:
+      213: 5916117499755868582
+    second: Mobile - Cookie Run - Brave Cookie_629
+  - first:
+      213: -7984611767115305727
+    second: Mobile - Cookie Run - Brave Cookie_630
+  - first:
+      213: -3451574867649237903
+    second: Mobile - Cookie Run - Brave Cookie_631
+  - first:
+      213: -2244932528424395807
+    second: Mobile - Cookie Run - Brave Cookie_632
+  - first:
+      213: -4861064364598150624
+    second: Mobile - Cookie Run - Brave Cookie_633
+  - first:
+      213: -91331359012798904
+    second: Mobile - Cookie Run - Brave Cookie_634
+  - first:
+      213: 549482727375775018
+    second: Mobile - Cookie Run - Brave Cookie_635
+  - first:
+      213: -2851171896575224671
+    second: Mobile - Cookie Run - Brave Cookie_636
+  - first:
+      213: 4662546588924036731
+    second: Mobile - Cookie Run - Brave Cookie_637
+  - first:
+      213: 3138288034221836995
+    second: Mobile - Cookie Run - Brave Cookie_638
+  - first:
+      213: -1484837644272294558
+    second: Mobile - Cookie Run - Brave Cookie_639
+  - first:
+      213: -1634434346239019449
+    second: Mobile - Cookie Run - Brave Cookie_640
+  - first:
+      213: -7848847266540979451
+    second: Mobile - Cookie Run - Brave Cookie_641
+  - first:
+      213: 4432614791543662624
+    second: Mobile - Cookie Run - Brave Cookie_642
+  - first:
+      213: 6744180115863390648
+    second: Mobile - Cookie Run - Brave Cookie_643
+  - first:
+      213: 2186869654703221218
+    second: Mobile - Cookie Run - Brave Cookie_644
+  - first:
+      213: 2999957341206779620
+    second: Mobile - Cookie Run - Brave Cookie_645
+  - first:
+      213: 6018001655624081220
+    second: Mobile - Cookie Run - Brave Cookie_646
+  - first:
+      213: -8390262674546203649
+    second: Mobile - Cookie Run - Brave Cookie_647
+  - first:
+      213: 2176375545250285130
+    second: Mobile - Cookie Run - Brave Cookie_648
+  - first:
+      213: 8076078152118722035
+    second: Mobile - Cookie Run - Brave Cookie_649
+  - first:
+      213: -7323730122583770861
+    second: Mobile - Cookie Run - Brave Cookie_650
+  - first:
+      213: -4183699628506977326
+    second: Mobile - Cookie Run - Brave Cookie_651
+  - first:
+      213: 6570963013453691501
+    second: Mobile - Cookie Run - Brave Cookie_652
+  - first:
+      213: 3888751260431856953
+    second: Mobile - Cookie Run - Brave Cookie_653
+  - first:
+      213: -8766888451234312178
+    second: Mobile - Cookie Run - Brave Cookie_654
+  - first:
+      213: -8650325635314771059
+    second: Mobile - Cookie Run - Brave Cookie_655
+  - first:
+      213: 2242116869251180024
+    second: Mobile - Cookie Run - Brave Cookie_656
+  - first:
+      213: -4111372032380732989
+    second: Mobile - Cookie Run - Brave Cookie_657
+  - first:
+      213: -656620259227115291
+    second: Mobile - Cookie Run - Brave Cookie_658
+  - first:
+      213: -3049147586676526858
+    second: Mobile - Cookie Run - Brave Cookie_659
+  - first:
+      213: -6062975327980790229
+    second: Mobile - Cookie Run - Brave Cookie_660
+  - first:
+      213: -7744943499015937078
+    second: Mobile - Cookie Run - Brave Cookie_661
+  - first:
+      213: -4069085337426367274
+    second: Mobile - Cookie Run - Brave Cookie_662
+  - first:
+      213: 1099680648561776876
+    second: Mobile - Cookie Run - Brave Cookie_663
+  - first:
+      213: -5256274980680211041
+    second: Mobile - Cookie Run - Brave Cookie_664
+  - first:
+      213: 8251192125315230482
+    second: Mobile - Cookie Run - Brave Cookie_665
+  - first:
+      213: -3798804088659293863
+    second: Mobile - Cookie Run - Brave Cookie_666
+  - first:
+      213: -7476438456094648530
+    second: Mobile - Cookie Run - Brave Cookie_667
+  - first:
+      213: 7234923741164325483
+    second: Mobile - Cookie Run - Brave Cookie_668
+  - first:
+      213: -5732563337827915450
+    second: Mobile - Cookie Run - Brave Cookie_669
+  - first:
+      213: 1495229583354067531
+    second: Mobile - Cookie Run - Brave Cookie_670
+  - first:
+      213: 2595978228557172973
+    second: Mobile - Cookie Run - Brave Cookie_671
+  - first:
+      213: 7365567269945628435
+    second: Mobile - Cookie Run - Brave Cookie_672
+  - first:
+      213: 45125005575573405
+    second: Mobile - Cookie Run - Brave Cookie_673
+  - first:
+      213: -6986894055031004753
+    second: Mobile - Cookie Run - Brave Cookie_674
+  - first:
+      213: 8819967391968713119
+    second: Mobile - Cookie Run - Brave Cookie_675
+  - first:
+      213: -5760997362956507382
+    second: Mobile - Cookie Run - Brave Cookie_676
+  - first:
+      213: -1991110251005845478
+    second: Mobile - Cookie Run - Brave Cookie_677
+  - first:
+      213: 7751129125850886648
+    second: Mobile - Cookie Run - Brave Cookie_678
+  - first:
+      213: 5345826292767644280
+    second: Mobile - Cookie Run - Brave Cookie_679
+  - first:
+      213: -7269473131025572713
+    second: Mobile - Cookie Run - Brave Cookie_680
+  - first:
+      213: 2797597210674793921
+    second: Mobile - Cookie Run - Brave Cookie_681
+  - first:
+      213: 6125684833724906458
+    second: Mobile - Cookie Run - Brave Cookie_682
+  - first:
+      213: -1864289671250997099
+    second: Mobile - Cookie Run - Brave Cookie_683
+  - first:
+      213: -3926868924370957645
+    second: Mobile - Cookie Run - Brave Cookie_684
+  - first:
+      213: 3801915075305717147
+    second: Mobile - Cookie Run - Brave Cookie_685
+  - first:
+      213: -7156646326641445709
+    second: Mobile - Cookie Run - Brave Cookie_686
+  - first:
+      213: -5046086783221969718
+    second: Mobile - Cookie Run - Brave Cookie_687
+  - first:
+      213: 3548210598142045234
+    second: Mobile - Cookie Run - Brave Cookie_688
+  - first:
+      213: -226892255550733866
+    second: Mobile - Cookie Run - Brave Cookie_689
+  - first:
+      213: -2577250035824640395
+    second: Mobile - Cookie Run - Brave Cookie_690
+  - first:
+      213: -2550738279673232168
+    second: Mobile - Cookie Run - Brave Cookie_691
+  - first:
+      213: -5194827840677310319
+    second: Mobile - Cookie Run - Brave Cookie_692
+  - first:
+      213: -5769485026633855513
+    second: Mobile - Cookie Run - Brave Cookie_693
+  - first:
+      213: -8276984594854766258
+    second: Mobile - Cookie Run - Brave Cookie_694
+  - first:
+      213: 7246993675826844739
+    second: Mobile - Cookie Run - Brave Cookie_695
+  - first:
+      213: 6228432290278921621
+    second: Mobile - Cookie Run - Brave Cookie_696
+  - first:
+      213: 2856777350992578057
+    second: Mobile - Cookie Run - Brave Cookie_697
+  - first:
+      213: -106350467932535509
+    second: Mobile - Cookie Run - Brave Cookie_698
+  - first:
+      213: -8448700531475174053
+    second: Mobile - Cookie Run - Brave Cookie_699
+  - first:
+      213: -146443694981117781
+    second: Mobile - Cookie Run - Brave Cookie_700
+  - first:
+      213: 2029011093436727854
+    second: Mobile - Cookie Run - Brave Cookie_701
+  - first:
+      213: 6230382124464326660
+    second: Mobile - Cookie Run - Brave Cookie_702
+  - first:
+      213: -5306268140213248586
+    second: Mobile - Cookie Run - Brave Cookie_703
+  - first:
+      213: 6054685783891455876
+    second: Mobile - Cookie Run - Brave Cookie_704
+  - first:
+      213: 5232220169032993116
+    second: Mobile - Cookie Run - Brave Cookie_705
+  - first:
+      213: 3214448101210978096
+    second: Mobile - Cookie Run - Brave Cookie_706
+  - first:
+      213: 6960968557950262613
+    second: Mobile - Cookie Run - Brave Cookie_707
+  - first:
+      213: 1915203490469603092
+    second: Mobile - Cookie Run - Brave Cookie_708
+  - first:
+      213: -1741537811481013336
+    second: Mobile - Cookie Run - Brave Cookie_709
+  - first:
+      213: -6398631338885927705
+    second: Mobile - Cookie Run - Brave Cookie_710
+  - first:
+      213: 877461821142503624
+    second: Mobile - Cookie Run - Brave Cookie_711
+  - first:
+      213: 6032343199996169015
+    second: Mobile - Cookie Run - Brave Cookie_712
+  - first:
+      213: 9128293434708575640
+    second: Mobile - Cookie Run - Brave Cookie_713
+  - first:
+      213: -4183969459371905024
+    second: Mobile - Cookie Run - Brave Cookie_714
+  - first:
+      213: 2540308755705832467
+    second: Mobile - Cookie Run - Brave Cookie_715
+  - first:
+      213: 1823089738430177965
+    second: Mobile - Cookie Run - Brave Cookie_716
+  - first:
+      213: 2517686678748411004
+    second: Mobile - Cookie Run - Brave Cookie_717
+  - first:
+      213: -6483913339486166764
+    second: Mobile - Cookie Run - Brave Cookie_718
+  - first:
+      213: 4518441917364964488
+    second: Mobile - Cookie Run - Brave Cookie_719
+  - first:
+      213: -8424853774475590940
+    second: Mobile - Cookie Run - Brave Cookie_720
+  - first:
+      213: 8022920377514717450
+    second: Mobile - Cookie Run - Brave Cookie_721
+  - first:
+      213: -8161620551692430427
+    second: Mobile - Cookie Run - Brave Cookie_722
+  - first:
+      213: 4358560659836135932
+    second: Mobile - Cookie Run - Brave Cookie_723
+  - first:
+      213: 5321834680086002485
+    second: Mobile - Cookie Run - Brave Cookie_724
+  - first:
+      213: -7809531139254249498
+    second: Mobile - Cookie Run - Brave Cookie_725
+  - first:
+      213: -2291415017262492446
+    second: Mobile - Cookie Run - Brave Cookie_726
+  - first:
+      213: 4498481864510123940
+    second: Mobile - Cookie Run - Brave Cookie_727
+  - first:
+      213: 2049526179221952103
+    second: Mobile - Cookie Run - Brave Cookie_728
+  - first:
+      213: -3835633852543345765
+    second: Mobile - Cookie Run - Brave Cookie_729
+  - first:
+      213: -4726140944279176132
+    second: Mobile - Cookie Run - Brave Cookie_730
+  - first:
+      213: 399214735833195802
+    second: Mobile - Cookie Run - Brave Cookie_731
+  - first:
+      213: -7831426858182854533
+    second: Mobile - Cookie Run - Brave Cookie_732
+  - first:
+      213: 5848392682600410517
+    second: Mobile - Cookie Run - Brave Cookie_733
+  - first:
+      213: -4647071972977601020
+    second: Mobile - Cookie Run - Brave Cookie_734
+  - first:
+      213: -3120675426121922068
+    second: Mobile - Cookie Run - Brave Cookie_735
+  - first:
+      213: -3197620339284709796
+    second: Mobile - Cookie Run - Brave Cookie_736
+  - first:
+      213: -8286463769114437719
+    second: Mobile - Cookie Run - Brave Cookie_737
+  - first:
+      213: -7919069214086715426
+    second: Mobile - Cookie Run - Brave Cookie_738
+  - first:
+      213: 4318984192350129418
+    second: Mobile - Cookie Run - Brave Cookie_739
+  - first:
+      213: -6101304858902650274
+    second: Mobile - Cookie Run - Brave Cookie_740
+  - first:
+      213: 2224065870590836679
+    second: Mobile - Cookie Run - Brave Cookie_741
+  - first:
+      213: 2455590457856424963
+    second: Mobile - Cookie Run - Brave Cookie_742
+  - first:
+      213: -9123618887362270559
+    second: Mobile - Cookie Run - Brave Cookie_743
+  - first:
+      213: -2909969193835088923
+    second: Mobile - Cookie Run - Brave Cookie_744
+  - first:
+      213: -3516592238142415945
+    second: Mobile - Cookie Run - Brave Cookie_745
+  - first:
+      213: -3095350319259988938
+    second: Mobile - Cookie Run - Brave Cookie_746
+  - first:
+      213: -521812143988017369
+    second: Mobile - Cookie Run - Brave Cookie_747
+  - first:
+      213: -8108838300963826245
+    second: Mobile - Cookie Run - Brave Cookie_748
+  - first:
+      213: 6295819025212916699
+    second: Mobile - Cookie Run - Brave Cookie_749
+  - first:
+      213: 652512458970390315
+    second: Mobile - Cookie Run - Brave Cookie_750
+  - first:
+      213: 21970000749692806
+    second: Mobile - Cookie Run - Brave Cookie_751
+  - first:
+      213: -3074607081061705451
+    second: Mobile - Cookie Run - Brave Cookie_752
+  - first:
+      213: 454008108588812222
+    second: Mobile - Cookie Run - Brave Cookie_753
+  - first:
+      213: 5080157907341232359
+    second: Mobile - Cookie Run - Brave Cookie_754
+  - first:
+      213: 567083181080156647
+    second: Mobile - Cookie Run - Brave Cookie_755
+  - first:
+      213: -3311836880329219840
+    second: Mobile - Cookie Run - Brave Cookie_756
+  - first:
+      213: 1425283939897985933
+    second: Mobile - Cookie Run - Brave Cookie_757
+  - first:
+      213: 8580182835734664952
+    second: Mobile - Cookie Run - Brave Cookie_758
+  - first:
+      213: -6058573036315758253
+    second: Mobile - Cookie Run - Brave Cookie_759
+  - first:
+      213: 4296987548745576558
+    second: Mobile - Cookie Run - Brave Cookie_760
+  - first:
+      213: 5705590115388337243
+    second: Mobile - Cookie Run - Brave Cookie_761
+  - first:
+      213: 4037369826343521989
+    second: Mobile - Cookie Run - Brave Cookie_762
+  - first:
+      213: 6676784638633390082
+    second: Mobile - Cookie Run - Brave Cookie_763
+  - first:
+      213: 4596550296392788566
+    second: Mobile - Cookie Run - Brave Cookie_764
+  - first:
+      213: -425756361891227192
+    second: Mobile - Cookie Run - Brave Cookie_765
+  - first:
+      213: -1012034041919386220
+    second: Mobile - Cookie Run - Brave Cookie_766
+  - first:
+      213: 2711228998375915163
+    second: Mobile - Cookie Run - Brave Cookie_767
+  - first:
+      213: -9165295167438644017
+    second: Mobile - Cookie Run - Brave Cookie_768
+  - first:
+      213: 6942345964304972370
+    second: Mobile - Cookie Run - Brave Cookie_769
+  - first:
+      213: -7963463634071765823
+    second: Mobile - Cookie Run - Brave Cookie_770
+  - first:
+      213: -5808046470080547827
+    second: Mobile - Cookie Run - Brave Cookie_771
+  - first:
+      213: 8771160812939000538
+    second: Mobile - Cookie Run - Brave Cookie_772
+  - first:
+      213: -3856423267629033109
+    second: Mobile - Cookie Run - Brave Cookie_773
+  - first:
+      213: -2335471039324557670
+    second: Mobile - Cookie Run - Brave Cookie_774
+  - first:
+      213: -5570054897419751819
+    second: Mobile - Cookie Run - Brave Cookie_775
+  - first:
+      213: -7785817611862961444
+    second: Mobile - Cookie Run - Brave Cookie_776
+  - first:
+      213: 5081846850942520789
+    second: Mobile - Cookie Run - Brave Cookie_777
+  - first:
+      213: -1944041824786082039
+    second: Mobile - Cookie Run - Brave Cookie_778
+  - first:
+      213: -7334414471391299471
+    second: Mobile - Cookie Run - Brave Cookie_779
+  - first:
+      213: 6756867311841887792
+    second: Mobile - Cookie Run - Brave Cookie_780
+  - first:
+      213: -3603977592645976277
+    second: Mobile - Cookie Run - Brave Cookie_781
+  - first:
+      213: -7422487335381698328
+    second: Mobile - Cookie Run - Brave Cookie_782
+  - first:
+      213: -4281042311694281546
+    second: Mobile - Cookie Run - Brave Cookie_783
+  - first:
+      213: -4989476016023628659
+    second: Mobile - Cookie Run - Brave Cookie_784
+  - first:
+      213: 7957354024440488962
+    second: Mobile - Cookie Run - Brave Cookie_785
+  - first:
+      213: 2126483047341202523
+    second: Mobile - Cookie Run - Brave Cookie_786
+  - first:
+      213: -1989170178605409022
+    second: Mobile - Cookie Run - Brave Cookie_787
+  - first:
+      213: -8278105331180083808
+    second: Mobile - Cookie Run - Brave Cookie_788
+  - first:
+      213: 4631401462093681224
+    second: Mobile - Cookie Run - Brave Cookie_789
+  - first:
+      213: -5740261180809235102
+    second: Mobile - Cookie Run - Brave Cookie_790
+  - first:
+      213: -493221819818652620
+    second: Mobile - Cookie Run - Brave Cookie_791
+  - first:
+      213: -8886217232651038801
+    second: Mobile - Cookie Run - Brave Cookie_792
+  - first:
+      213: -7396199918396209385
+    second: Mobile - Cookie Run - Brave Cookie_793
+  - first:
+      213: -6238560684248437904
+    second: Mobile - Cookie Run - Brave Cookie_794
+  - first:
+      213: 4367080948709748887
+    second: Mobile - Cookie Run - Brave Cookie_795
+  - first:
+      213: 4143788531517368654
+    second: Mobile - Cookie Run - Brave Cookie_796
+  - first:
+      213: 4684549841592700841
+    second: Mobile - Cookie Run - Brave Cookie_797
+  - first:
+      213: 8966238803956722219
+    second: Mobile - Cookie Run - Brave Cookie_798
+  - first:
+      213: 8158803507646759575
+    second: Mobile - Cookie Run - Brave Cookie_799
+  - first:
+      213: -6738584488600435709
+    second: Mobile - Cookie Run - Brave Cookie_800
+  - first:
+      213: 5026676417560595577
+    second: Mobile - Cookie Run - Brave Cookie_801
+  - first:
+      213: 8895977152853396134
+    second: Mobile - Cookie Run - Brave Cookie_802
+  - first:
+      213: -3661005047861238947
+    second: Mobile - Cookie Run - Brave Cookie_803
+  - first:
+      213: -4899935997700635084
+    second: Mobile - Cookie Run - Brave Cookie_804
+  - first:
+      213: 7385093517707438871
+    second: Mobile - Cookie Run - Brave Cookie_805
+  - first:
+      213: 91805946611290500
+    second: Mobile - Cookie Run - Brave Cookie_806
+  - first:
+      213: -6751463921211338115
+    second: Mobile - Cookie Run - Brave Cookie_807
+  - first:
+      213: -3734791858077794826
+    second: Mobile - Cookie Run - Brave Cookie_808
+  - first:
+      213: 3395694907785582372
+    second: Mobile - Cookie Run - Brave Cookie_809
+  - first:
+      213: 3536748032822233444
+    second: Mobile - Cookie Run - Brave Cookie_810
+  - first:
+      213: -5249709399121125000
+    second: Mobile - Cookie Run - Brave Cookie_811
+  - first:
+      213: 1010011619769233813
+    second: Mobile - Cookie Run - Brave Cookie_812
+  - first:
+      213: -2697193507392482301
+    second: Mobile - Cookie Run - Brave Cookie_813
+  - first:
+      213: 3499269768037080073
+    second: Mobile - Cookie Run - Brave Cookie_814
+  - first:
+      213: 8014453751742844129
+    second: Mobile - Cookie Run - Brave Cookie_815
+  - first:
+      213: 3337402940621335629
+    second: Mobile - Cookie Run - Brave Cookie_816
+  - first:
+      213: 7601199649988479281
+    second: Mobile - Cookie Run - Brave Cookie_817
+  - first:
+      213: -8211320712022527865
+    second: Mobile - Cookie Run - Brave Cookie_818
+  - first:
+      213: -7558376310657304169
+    second: Mobile - Cookie Run - Brave Cookie_819
+  - first:
+      213: 5339275058776874335
+    second: Mobile - Cookie Run - Brave Cookie_820
+  - first:
+      213: -7772178325558421189
+    second: Mobile - Cookie Run - Brave Cookie_821
+  - first:
+      213: 9211384847315594253
+    second: Mobile - Cookie Run - Brave Cookie_822
+  - first:
+      213: 5655266059731112005
+    second: Mobile - Cookie Run - Brave Cookie_823
+  - first:
+      213: 2723681966208828841
+    second: Mobile - Cookie Run - Brave Cookie_824
+  - first:
+      213: -2114897941731276284
+    second: Mobile - Cookie Run - Brave Cookie_825
+  - first:
+      213: 471342585026805519
+    second: Mobile - Cookie Run - Brave Cookie_826
+  - first:
+      213: 6837735361337411654
+    second: Mobile - Cookie Run - Brave Cookie_827
+  - first:
+      213: 8676771158979023418
+    second: Mobile - Cookie Run - Brave Cookie_828
+  - first:
+      213: -2076966979982143274
+    second: Mobile - Cookie Run - Brave Cookie_829
+  - first:
+      213: 6799571961685720135
+    second: Mobile - Cookie Run - Brave Cookie_830
+  - first:
+      213: -4567759527736047031
+    second: Mobile - Cookie Run - Brave Cookie_831
+  - first:
+      213: -7986340246739831457
+    second: Mobile - Cookie Run - Brave Cookie_832
+  - first:
+      213: -8734720782474330973
+    second: Mobile - Cookie Run - Brave Cookie_833
+  - first:
+      213: -8339668318514904602
+    second: Mobile - Cookie Run - Brave Cookie_834
+  - first:
+      213: -4745991081316564382
+    second: Mobile - Cookie Run - Brave Cookie_835
+  - first:
+      213: -6776806107626348704
+    second: Mobile - Cookie Run - Brave Cookie_836
+  - first:
+      213: 1021888062853920143
+    second: Mobile - Cookie Run - Brave Cookie_837
+  - first:
+      213: 4285617189660876197
+    second: Mobile - Cookie Run - Brave Cookie_838
+  - first:
+      213: -2916700197478638516
+    second: Mobile - Cookie Run - Brave Cookie_839
+  - first:
+      213: 1412078416848705541
+    second: Mobile - Cookie Run - Brave Cookie_840
+  - first:
+      213: 3807521863486733440
+    second: Mobile - Cookie Run - Brave Cookie_841
+  - first:
+      213: 3181779074607429310
+    second: Mobile - Cookie Run - Brave Cookie_842
+  - first:
+      213: -5082908838999898797
+    second: Mobile - Cookie Run - Brave Cookie_843
+  - first:
+      213: 1214948445367714739
+    second: Mobile - Cookie Run - Brave Cookie_844
+  - first:
+      213: -613318108479034336
+    second: Mobile - Cookie Run - Brave Cookie_845
+  - first:
+      213: -359236414001363829
+    second: Mobile - Cookie Run - Brave Cookie_846
+  - first:
+      213: -6141823200023030307
+    second: Mobile - Cookie Run - Brave Cookie_847
+  - first:
+      213: 3243408154321126105
+    second: Mobile - Cookie Run - Brave Cookie_848
+  - first:
+      213: 3533716347046409186
+    second: Mobile - Cookie Run - Brave Cookie_849
+  - first:
+      213: -6365736444774766494
+    second: Mobile - Cookie Run - Brave Cookie_850
+  - first:
+      213: 9006232123330530485
+    second: Mobile - Cookie Run - Brave Cookie_851
+  - first:
+      213: 1888805260551505594
+    second: Mobile - Cookie Run - Brave Cookie_852
+  - first:
+      213: 8990679073462319216
+    second: Mobile - Cookie Run - Brave Cookie_853
+  - first:
+      213: 1337532102411303685
+    second: Mobile - Cookie Run - Brave Cookie_854
+  - first:
+      213: 6225950206638962592
+    second: Mobile - Cookie Run - Brave Cookie_855
+  - first:
+      213: -2046508006852346706
+    second: Mobile - Cookie Run - Brave Cookie_856
+  - first:
+      213: -2033283469877052782
+    second: Mobile - Cookie Run - Brave Cookie_857
+  - first:
+      213: 1503067538067079556
+    second: Mobile - Cookie Run - Brave Cookie_858
+  - first:
+      213: 7849514626989303285
+    second: Mobile - Cookie Run - Brave Cookie_859
+  - first:
+      213: -166288365932865357
+    second: Mobile - Cookie Run - Brave Cookie_860
+  - first:
+      213: -4377242229836194770
+    second: Mobile - Cookie Run - Brave Cookie_861
+  - first:
+      213: -686802070002412290
+    second: Mobile - Cookie Run - Brave Cookie_862
+  - first:
+      213: 1147969723725104771
+    second: Mobile - Cookie Run - Brave Cookie_863
+  - first:
+      213: 4797161233893668391
+    second: Mobile - Cookie Run - Brave Cookie_864
+  - first:
+      213: 1903187352607964393
+    second: Mobile - Cookie Run - Brave Cookie_865
+  - first:
+      213: 1251889447260712316
+    second: Mobile - Cookie Run - Brave Cookie_866
+  - first:
+      213: 3598764744162372781
+    second: Mobile - Cookie Run - Brave Cookie_867
+  - first:
+      213: -4519750877208792114
+    second: Mobile - Cookie Run - Brave Cookie_868
+  - first:
+      213: -295920785282776686
+    second: Mobile - Cookie Run - Brave Cookie_869
+  - first:
+      213: 4867414702479695579
+    second: Mobile - Cookie Run - Brave Cookie_870
+  - first:
+      213: -9022438642862601953
+    second: Mobile - Cookie Run - Brave Cookie_871
+  - first:
+      213: 3148450702909374698
+    second: Mobile - Cookie Run - Brave Cookie_872
+  - first:
+      213: -7137217314509393489
+    second: Mobile - Cookie Run - Brave Cookie_873
+  - first:
+      213: 3907251207279120193
+    second: Mobile - Cookie Run - Brave Cookie_874
+  - first:
+      213: 829220805568467544
+    second: Mobile - Cookie Run - Brave Cookie_875
+  - first:
+      213: 8488770487801590603
+    second: Mobile - Cookie Run - Brave Cookie_876
+  - first:
+      213: -6984671300522160764
+    second: Mobile - Cookie Run - Brave Cookie_877
+  - first:
+      213: -2693814127987394806
+    second: Mobile - Cookie Run - Brave Cookie_878
+  - first:
+      213: 8541096893406745818
+    second: Mobile - Cookie Run - Brave Cookie_879
+  - first:
+      213: 2220275266467811534
+    second: Mobile - Cookie Run - Brave Cookie_880
+  - first:
+      213: -3733760523320509482
+    second: Mobile - Cookie Run - Brave Cookie_881
+  - first:
+      213: 2421132268584263432
+    second: Mobile - Cookie Run - Brave Cookie_882
+  - first:
+      213: 5723727411097339423
+    second: Mobile - Cookie Run - Brave Cookie_883
+  - first:
+      213: -1066604511450943766
+    second: Mobile - Cookie Run - Brave Cookie_884
+  - first:
+      213: 6469917403560907997
+    second: Mobile - Cookie Run - Brave Cookie_885
+  - first:
+      213: 4169322093908742392
+    second: Mobile - Cookie Run - Brave Cookie_886
+  - first:
+      213: 920596063690715796
+    second: Mobile - Cookie Run - Brave Cookie_887
+  - first:
+      213: 5483978539154539513
+    second: Mobile - Cookie Run - Brave Cookie_888
+  - first:
+      213: 2942355910423818490
+    second: Mobile - Cookie Run - Brave Cookie_889
+  - first:
+      213: 5306053950799515588
+    second: Mobile - Cookie Run - Brave Cookie_890
+  - first:
+      213: -5908856456471833195
+    second: Mobile - Cookie Run - Brave Cookie_891
+  - first:
+      213: 4206047527212182477
+    second: Mobile - Cookie Run - Brave Cookie_892
+  - first:
+      213: -2384176647185281929
+    second: Mobile - Cookie Run - Brave Cookie_893
+  - first:
+      213: -4945407573662577019
+    second: Mobile - Cookie Run - Brave Cookie_894
+  - first:
+      213: 5732260059010532576
+    second: Mobile - Cookie Run - Brave Cookie_895
+  - first:
+      213: -5864428614602885942
+    second: Mobile - Cookie Run - Brave Cookie_896
+  - first:
+      213: 6591587567951079740
+    second: Mobile - Cookie Run - Brave Cookie_897
+  - first:
+      213: -7288698383164191272
+    second: Mobile - Cookie Run - Brave Cookie_898
+  - first:
+      213: 1645775622923573388
+    second: Mobile - Cookie Run - Brave Cookie_899
+  - first:
+      213: 4618455251117533529
+    second: Mobile - Cookie Run - Brave Cookie_900
+  - first:
+      213: -3184140426113843973
+    second: Mobile - Cookie Run - Brave Cookie_901
+  - first:
+      213: 5875380634258779339
+    second: Mobile - Cookie Run - Brave Cookie_902
+  - first:
+      213: -5482947827693203152
+    second: Mobile - Cookie Run - Brave Cookie_903
+  - first:
+      213: 7976027285532126936
+    second: Mobile - Cookie Run - Brave Cookie_904
+  - first:
+      213: -8513225364061683463
+    second: Mobile - Cookie Run - Brave Cookie_905
+  - first:
+      213: 6218131292874333506
+    second: Mobile - Cookie Run - Brave Cookie_906
+  - first:
+      213: -2030263899171960688
+    second: Mobile - Cookie Run - Brave Cookie_907
+  - first:
+      213: 4602940915053749493
+    second: Mobile - Cookie Run - Brave Cookie_908
+  - first:
+      213: 7014486058529883948
+    second: Mobile - Cookie Run - Brave Cookie_909
+  - first:
+      213: 4972578484770677040
+    second: Mobile - Cookie Run - Brave Cookie_910
+  - first:
+      213: -4786015482429287408
+    second: Mobile - Cookie Run - Brave Cookie_911
+  - first:
+      213: 1807165548013248490
+    second: Mobile - Cookie Run - Brave Cookie_912
+  - first:
+      213: 620849308448808124
+    second: Mobile - Cookie Run - Brave Cookie_913
+  - first:
+      213: -4049027421982815611
+    second: Mobile - Cookie Run - Brave Cookie_914
+  - first:
+      213: -4455146071281864948
+    second: Mobile - Cookie Run - Brave Cookie_915
+  - first:
+      213: -5197074701853071927
+    second: Mobile - Cookie Run - Brave Cookie_916
+  - first:
+      213: 6028031964846580985
+    second: Mobile - Cookie Run - Brave Cookie_917
+  - first:
+      213: -5925885324641179826
+    second: Mobile - Cookie Run - Brave Cookie_918
+  - first:
+      213: -7900017458888898981
+    second: Mobile - Cookie Run - Brave Cookie_919
+  - first:
+      213: 2292280602539871286
+    second: Mobile - Cookie Run - Brave Cookie_920
+  - first:
+      213: -1227167908764659110
+    second: Mobile - Cookie Run - Brave Cookie_921
+  - first:
+      213: -9127521298946725303
+    second: Mobile - Cookie Run - Brave Cookie_922
+  - first:
+      213: -5953803413140266121
+    second: Mobile - Cookie Run - Brave Cookie_923
+  - first:
+      213: -697358207663179223
+    second: Mobile - Cookie Run - Brave Cookie_924
+  - first:
+      213: 8001697259280416457
+    second: Mobile - Cookie Run - Brave Cookie_925
+  - first:
+      213: 4208222052405609877
+    second: Mobile - Cookie Run - Brave Cookie_926
+  - first:
+      213: -6418144805375101669
+    second: Mobile - Cookie Run - Brave Cookie_927
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f8e56afc9282b0800000000000000
+      internalID: -5583727988720469712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a63acf8d73c05f0800000000000000
+      internalID: -789194429605647733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a8ace40342f560800000000000000
+      internalID: 7346007630624104760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c43d4bb7779fc0800000000000000
+      internalID: -3488187740037266507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_4
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1acff45b09a1a40800000000000000
+      internalID: 5339739416606581177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f30bb6329c1e40800000000000000
+      internalID: 5628534398069764279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_6
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695664b1a9c653e90800000000000000
+      internalID: -7046606632812911210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_7
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e710cc32524cda0800000000000000
+      internalID: -5925570374035997179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_8
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e119dee19907c0800000000000000
+      internalID: -4104589130341422896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_9
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c2bd115df3a32a0800000000000000
+      internalID: -6757018106555847637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_10
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5cb2a88023d17d0800000000000000
+      internalID: -2946143568971184690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132fa1b6d0738ab10800000000000000
+      internalID: 1992903365882475057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80a1ce8b0496ee0800000000000000
+      internalID: -1267410657148794650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92779aaf07a31a9a0800000000000000
+      internalID: -6223628953133156567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac3ebdb7022abc70800000000000000
+      internalID: 8987533423014722720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786cb545710609c00800000000000000
+      internalID: 905329178417284743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_16
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dea1dad48ded3b0800000000000000
+      internalID: -5485709467962380978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_17
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3cb068e309e1c20800000000000000
+      internalID: 3179136985181438920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_18
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dfdbe64216d2410800000000000000
+      internalID: 1453925063815200145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_19
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c15a9ed4f8aa4c0800000000000000
+      internalID: -4275447331439698847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_20
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d6218124dd9160800000000000000
+      internalID: 7034011433388399069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_21
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5573478fd6403a30800000000000000
+      internalID: 4192929178942928223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c545c1742c4670800000000000000
+      internalID: 8524228265765095575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fa2a241f2d9c810800000000000000
+      internalID: 1786190660876021532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_24
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c0348bebd0c3a0800000000000000
+      internalID: -6647071245417265267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca1db1a98dbbf90800000000000000
+      internalID: -6936712644630827987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_26
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f318e63dcfed80800000000000000
+      internalID: -8219125159222314987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_27
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cca8aa3fe322680800000000000000
+      internalID: -8781387107159847860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_28
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90fa1fbdd8a8790800000000000000
+      internalID: -7527047851404228102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_29
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e6ee30a0262830800000000000000
+      internalID: 4045957187861145313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_30
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46482eda7cf965b20800000000000000
+      internalID: 3122859071592629348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_31
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559ef86182bcde90800000000000000
+      internalID: -6999523451958553261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_32
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775b74c576f7e480800000000000000
+      internalID: -8869849955414878338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea52bb602dd4f560800000000000000
+      internalID: 7346740023463664355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b6dbb9371f3140800000000000000
+      internalID: 4701502072730073440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_35
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2033339cec743920800000000000000
+      internalID: 2969135409867730990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_36
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a702b8ea2274c0800000000000000
+      internalID: -4291320316023037338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_37
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880bd27c1b89536f0800000000000000
+      internalID: -705489877295320952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_38
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be800dae7a2c00d0800000000000000
+      internalID: -3455340090543272268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_39
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87525736f1cedf150800000000000000
+      internalID: 5908137905736721784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_40
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb149783a33941900800000000000000
+      internalID: 654309724140421564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_41
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c5ea97702daa60800000000000000
+      internalID: 7686835837063252146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_42
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ad59c3ae0c17120800000000000000
+      internalID: 2409919387891259999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_43
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc22ce518939feb0800000000000000
+      internalID: -4685650709498942264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d264a4405987450800000000000000
+      internalID: 6086778742049746264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a01039274a8370800000000000000
+      internalID: 8325545103373410417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa5e3cc8b902890800000000000000
+      internalID: -7484811551805427810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_47
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a58408615d9cbd80800000000000000
+      internalID: -8233533045777070683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_48
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b47e032c1e9fb3a0800000000000000
+      internalID: -6647420681291139917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_49
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819a278a2637b4f40800000000000000
+      internalID: 5713787419819682072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_50
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205c8d18faaa7b20800000000000000
+      internalID: 3133004473413947438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_51
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5edbb18c614be570800000000000000
+      internalID: 8496957056253419103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_52
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91299e2e282a82df0800000000000000
+      internalID: -204735100008951271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_53
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d1850426f91820800000000000000
+      internalID: 2889611270506535385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_54
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0800f69c1d5112c20800000000000000
+      internalID: 3179846802672124032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b17d9dbcaf0f970800000000000000
+      internalID: 8786798626439895950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d903794f71db075d0800000000000000
+      internalID: -3066743435653861219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604687eef016d050800000000000000
+      internalID: 5824861855042388075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_58
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae0f9b9491095050800000000000000
+      internalID: 5789660533739163302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_59
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df3d06e896464330800000000000000
+      internalID: 3694718166812671958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_60
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832a56906b5fb700800000000000000
+      internalID: 558265349214708610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_61
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657c494ece41dd320800000000000000
+      internalID: 2584244768860325718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_62
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853871da74ae64250800000000000000
+      internalID: 5928683553047413592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_63
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b06e5e9ea343aa90800000000000000
+      internalID: -7303919753404456775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_64
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c53386a9d93490800000000000000
+      internalID: -7765936773234571087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie_65
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031ff89302db63130800000000000000
+      internalID: 3546229702703182128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
