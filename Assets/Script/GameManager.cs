@@ -5,35 +5,35 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    static public bool playerDie = false;
-    public float pipeTime = 2f;
-    public float pipeMin = -0.5f;
-    public float pipeMax = 0.5f;
-    static public int score = 0;
-    static public int bestScore = 0;
-    public Text ScoreText;
-
-    public GameObject pipePrefab;
-
+    public GameObject[] NumberImage;
+    public Sprite[] Number;
+    public Image TimeBar;
     // Start is called before the first frame update
-    private void Start()
+    void Start()
     {
-        StartCoroutine(PipeStart());
+        
     }
 
-    IEnumerator PipeStart()
-    {
-        do
-        {
-            Instantiate(pipePrefab,
-                new Vector3(3.5f, Random.Range(pipeMin, pipeMax), 0),
-                Quaternion.Euler(new Vector3(0, 0, 0)));
-            yield return new WaitForSeconds(pipeTime);
-        } while (!playerDie);
-    }
     // Update is called once per frame
     void Update()
     {
-        ScoreText.text = score.ToString();
+        int temp = DataManager.Instance.score / 100;
+        NumberImage[0].GetComponent<Image>().sprite = Number[temp];
+        int temp2 = DataManager.Instance.score % 100;
+        temp2 /= 10;
+        NumberImage[1].GetComponent<Image>().sprite = Number[temp2];
+        int temp3 = DataManager.Instance.score % 10;
+        NumberImage[2].GetComponent<Image>().sprite = Number[temp3];
+
+
+        if(!DataManager.Instance.PlayerDie)
+        {
+            DataManager.Instance.playTimeCurrent -= 1 * Time.deltaTime;
+            TimeBar.fillAmount = DataManager.Instance.playTimeCurrent / DataManager.Instance.playTimeMax;
+            if(DataManager.Instance.playTimeCurrent <0)
+            {
+                DataManager.Instance.PlayerDie = true;
+            }
+        }
     }
 }

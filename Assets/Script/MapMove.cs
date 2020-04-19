@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MapMove : MonoBehaviour
 {
-    public float mapSpeed = 10f;
+    public float mapSpeed = 5f;
     // Start is called before the first frame update
     void Start()
     {

@@ -4,23 +4,26 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-    public float jump = 10f;
-    public float jump2 = 12f;
+    public float jump = 6f;
+    public float jump2 = 10f;
 
     int jumpCount = 0;
 
     public void Jump_Btn()
     {
-        if (jumpCount == 0)
+        if (!DataManager.Instance.PlayerDie)
         {
-            gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump, 0);
-            jumpCount += 1;
+            if (jumpCount == 0)
+            {
+                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump, 0);
+                jumpCount += 1;
 
-        }
-        else if (jumpCount == 1)
-        {
-            gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump2, 0);
-            jumpCount += 1;
+            }
+            else if (jumpCount == 1)
+            {
+                gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, jump2, 0);
+                jumpCount += 1;
+            }
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
@@ -39,6 +42,15 @@ public class PlayerMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // 사망조건
+        if(!DataManager.Instance.PlayerDie)
+        {
+            // 키입력
+            if (Input.GetMouseButtonDown(0))
+            {
+                Jump_Btn();
+            }
+
+        }
     }
 }
