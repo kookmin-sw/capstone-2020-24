@@ -54,8 +54,7 @@ and item systems etc.
 ```
 
 ### 4. 사용법
-
-소스코드제출시 설치법이나 사용법을 작성하세요.
+[게임 플레이](https://jacob3015.github.io/teachableMachine/)
 
 ### 5. 기타
 
