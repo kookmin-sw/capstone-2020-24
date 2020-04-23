@@ -56,7 +56,7 @@ and item systems etc.
 ### 4. 사용법
 
 [![텍스트](https://user-images.githubusercontent.com/41886825/77662443-36613b80-6fbf-11ea-98c1-6779632a8bce.png)](https://jacob3015.github.io/teachableMachine/)
-스쿼트 게임 플레이
+</br>스쿼트 게임 플레이
 1. 위 배너를 클릭
 2. Start Camera를 누른다.
 3. Play 버튼을 누르고 전신이 나오도록 한다.
