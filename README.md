@@ -54,7 +54,10 @@ and item systems etc.
 ```
 
 ### 4. 사용법
-[게임 플레이](https://jacob3015.github.io/teachableMachine/)
+[스쿼트 게임 플레이](https://jacob3015.github.io/teachableMachine/)
+1. Start Camera를 누른다.
+2. Play 버튼을 누르고 전신이 나오도록 한다.
+3. 장애물이 다가오면 스쿼트를 해서 피한다. 
 
 ### 5. 기타
 
