@@ -25,12 +25,12 @@ and item systems etc.
 <img width="200" src="https://user-images.githubusercontent.com/30205073/77715644-79eb9200-701f-11ea-98fd-cd6af1d22a81.jpg"></img>
 ```markdown
 팀장 : 서형석
-역할 : AWS Server 및 영상처리
+역할 : Firebase db 및 영상처리
 ```
 <img width="200" src="https://user-images.githubusercontent.com/12998163/77720980-dbfec400-702c-11ea-9429-5cfcc35cf363.jpg"></img>
 ```markdown
 팀원 : 강주혜
-역할 : 데이터베이스 및 영상처리
+역할 : Firebase DB 및 영상처리
 ```
 <img width="200" src="https://user-images.githubusercontent.com/41886825/77715560-44df3f80-701f-11ea-87a6-a8bbede8c3e7.png"></img>
 ```markdown
@@ -45,7 +45,7 @@ and item systems etc.
 <img width="200" src="https://user-images.githubusercontent.com/41886825/77666482-5b0be200-6fc4-11ea-9de3-8c7b9476a1f2.jpg"></img>
 ```markdown
 팀원 : 최광희
-역할 : AWS Server 및 데이터베이스
+역할 : Firebase 
 ```
 
 ```markdown
