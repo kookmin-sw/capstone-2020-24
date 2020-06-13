@@ -17,7 +17,11 @@ and item systems etc.
 ### 3. 소개 영상
 [![텍스트](https://user-images.githubusercontent.com/41886825/77716183-e5822f00-7020-11ea-9fef-8e5a5bfc64bb.png)](https://youtu.be/4XUc72WqI-I)
 
-### 4. 팀 소개
+### 4. 최종 발표 영상
+[![텍스트](https://user-images.githubusercontent.com/41886825/77716183-e5822f00-7020-11ea-9fef-8e5a5bfc64bb.png)]()
+(https://youtu.be/8NvPUbbbJP4-I)
+
+### 5. 팀 소개
 
 **지도 교수 : 박하명**
 -------------
@@ -53,7 +57,7 @@ and item systems etc.
 역할 : 
 ```
 
-### 4. 사용법
+### 6. 사용법
 
 [![텍스트](https://user-images.githubusercontent.com/41886825/77662443-36613b80-6fbf-11ea-98c1-6779632a8bce.png)](https://actionfitfamily1.web.app/)
 </br>스쿼트 게임 플레이
@@ -62,6 +66,6 @@ and item systems etc.
 3. 로그인을 하거나 게스트로 진행한다.
 4. 원하는 게임을 선택하고 플레이한다.
 
-### 5. 기타
+### 7. 기타
 
 추가적인 내용은 자유롭게 작성하세요.
