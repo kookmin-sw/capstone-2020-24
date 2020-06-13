@@ -20,6 +20,9 @@ and item systems etc.
 ### 4. 최종 발표 영상
 [![텍스트](https://user-images.githubusercontent.com/30205073/84559324-94a6ea80-ad74-11ea-9e08-3e8463b7befe.PNG)](https://youtu.be/8NvPUbbbJP4-I)
 
+### 4. 최종 발표 영상
+[![텍스트](https://user-images.githubusercontent.com/30205073/84559324-94a6ea80-ad74-11ea-9e08-3e8463b7befe.PNG)](https://youtu.be/u3xIxP45Ak8-I)
+
 ### 5. 팀 소개
 
 **지도 교수 : 박하명**
