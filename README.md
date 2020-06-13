@@ -18,7 +18,7 @@ and item systems etc.
 [![텍스트](https://user-images.githubusercontent.com/41886825/77716183-e5822f00-7020-11ea-9fef-8e5a5bfc64bb.png)](https://youtu.be/4XUc72WqI-I)
 
 ### 4. 최종 발표 영상
-[![텍스트](https://user-images.githubusercontent.com/30205073/84559268-0d597700-ad74-11ea-8591-d37349a7251f.PNG)](https://youtu.be/8NvPUbbbJP4-I)
+[![텍스트](https://user-images.githubusercontent.com/30205073/84559324-94a6ea80-ad74-11ea-9e08-3e8463b7befe.PNG)](https://youtu.be/8NvPUbbbJP4-I)
 
 ### 5. 팀 소개
 
