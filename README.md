@@ -50,7 +50,7 @@ and item systems etc.
 팀원 : 최광희
 역할 : Firebase 
 ```
-<img width="200" src="<img width="200" src="https://user-images.githubusercontent.com/41886825/77666482-5b0be200-6fc4-11ea-9de3-8c7b9476a1f2.jpg">"></img>
+<img width="200" src="https://user-images.githubusercontent.com/30205073/84559368-fa937200-ad74-11ea-8fed-366c8a3f772c.jpg"></img>
 ```markdown
 팀원 : 사이르 알바라위
 역할 : 
